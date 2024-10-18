@@ -41,7 +41,7 @@ description: Roadmap
 
 ---
 
-## 🔧 Phase 2: Alpha Development and Testing (12-18 months)
+# 🔧 Phase 2: Alpha Development and Testing (12-18 months)
 
 ### 🔬 Alpha Testing
 - 🧑‍🔬 Conduct closed alpha tests with a small group of participants.
@@ -59,7 +59,7 @@ description: Roadmap
 
 ---
 
-## 🌱 Phase 3: Beta Launch and Ecosystem Growth (18-24 months)
+# 🌱 Phase 3: Beta Launch and Ecosystem Growth (18-24 months)
 
 ### 🚀 Beta Release
 - 🌍 Launch public beta of the DIN network.
@@ -79,7 +79,7 @@ description: Roadmap
 
 
 ---
-## 🌐 Phase 4: Mainnet Launch and Scaling (24-36 months)
+# 🌐 Phase 4: Mainnet Launch and Scaling (24-36 months)
 
 ### 🖥️ Mainnet Deployment
 - 🏁 Launch DIN mainnet with full functionality on Ethereum blockchain ecosystems.
