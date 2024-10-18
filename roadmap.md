@@ -100,7 +100,7 @@ We will consider a token launch; however, this is speculative and only if it ali
 - 💡 Establish grants and incubation programs for ecosystem projects.
 
 ## 💰 Revenue Model
-- **🌐 Network Growth:** The revenue model focuses on expanding the network to generate revenue through network fees, which will be utilized for training. This sustainable approach ensures ongoing development and support for the DIN ecosystem.
+- **🌐 Network Growth:** The revenue model focuses on expanding the network to generate revenue through network fees, which will be utilized for training. This sustainable approach ensures ongoing development and support for the Doctelligence ecosystem.
 
 ## 🛠️ Real-world Applications
 - 📱 Foster development of DApps leveraging DIN for various industries.
