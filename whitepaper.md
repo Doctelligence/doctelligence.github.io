@@ -9,4 +9,5 @@ description: White Paper
 **Explore our White Paper here:** [Download](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf).
 
 ### **Adoption: Who Will Adopt DIN Mainnet?**  
-DIN offers unique capabilities—on-device training, smaller AI models, decentralized control, and rewards—that appeal to a diverse range of participants. From individuals and researchers to SMEs and IoT ecosystems, DIN opens new avenues for decentralized AI collaboration and data ownership. [Read more about potential adopters here.](#addressing-who-will-adopt-din-mainnet)
+DIN offers unique capabilities—on-device training, smaller AI models, decentralized control, and rewards—that appeal to a diverse range of participants. From individuals and researchers to SMEs and IoT ecosystems, DIN opens new avenues for decentralized AI collaboration and data ownership. [Read more about potential adopters here.](adoption.md)
+
