@@ -13,15 +13,11 @@ Understanding the significance of the DIN mainnet involves recognizing how its u
 
 Before diving into specific use cases, it’s crucial to acknowledge that DIN signifies a paradigm shift in data ownership, AI training, and decentralized collaboration. Similar to how blockchain technology unlocked entirely new use cases and business models, DIN facilitates possibilities that were previously impractical or unattainable.
 
+DIN may unveil innovative methods for recording and collecting data at the edges—or peripheries—of networks. This decentralized approach contrasts with traditional data collection methods, where centralized entities act as intermediaries. Instead, **DIN empowers individuals, small organizations, and devices to contribute data directly, processing and managing information independently**.
+
+This decentralized data contribution is incentivized similarly to how miners in a blockchain ecosystem are rewarded, fostering more efficient and secure systems by reducing reliance on centralized collectors and distributing power among participants in distributed networks. 
+
 The following scenarios should be viewed through this transformative lens. Although some concepts may seem familiar, it is DIN's capabilities that enable large-scale, decentralized, and privacy-preserving implementations. This technology can fundamentally alter how individuals, organizations, and devices interact with data and AI, fostering new opportunities and reshaping existing processes.
-
----
-
-## **Reimagining Data Collection in the Peripheries**
-
-DIN may unveil innovative methods for recording and collecting data at the edges—or peripheries—of networks. This decentralized approach contrasts with traditional data collection methods, where centralized entities act as intermediaries. Instead, **DIN empowers individuals, small organizations, and devices to contribute data directly, processing and managing information independently**.  
-
-This decentralized data contribution is incentivized similarly to how miners in a blockchain ecosystem are rewarded, fostering more efficient and secure systems by reducing reliance on centralized collectors and distributing power among participants in distributed networks.
 
 ---
 
@@ -29,7 +25,7 @@ This decentralized data contribution is incentivized similarly to how miners in 
 
 ### 1. **Personal Data Stores (PDS) Adoption and Sovereign Data Models**
 - **How it works:**
-    - Individuals store their own data in decentralized Personal Data Stores (PDS), encompassing health records, IoT device logs, or fitness data.
+    - Individuals store their own data in decentralized personal data stores (PDS), encompassing health records, IoT device logs, or fitness data.
     - Through DIN, participants maintain full control over how their data is shared, used, and monetized.
     - **Example:** Health-conscious users can store personal medical records in a PDS and monetize anonymized data for public health research through DIN's reward mechanism.
 - **Why this makes sense:**
