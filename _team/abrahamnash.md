@@ -8,8 +8,8 @@ promoted: true
 weight: 1
 ---
 
-Dr. Abraham Nash is a PhD student in Computer Science at Oxford University. His research focuses on decentralized systems and federated learning, which are integral to the Decentralized Intelligence Network (DIN).
+Dr. Abraham Nash is a DPhil student in Computer Science at Oxford University, exploring data sovereignty, decentralized AI (DeAI), plurality, public goods, and blockchain-aligned ideals.
 
-At DIN, Dr. Nash’s work contributes to developing a new era of AI—one that’s open, decentralized, and focused on preserving individual data sovereignty. His expertise supports DIN’s mission to advance AI through innovative and privacy-respecting technologies.
+At Doctelligence, Abraham's work contributes to developing a new era of AI—open, decentralized, and committed to preserving individual data sovereignty. His expertise supports the lab's mission to advance AI through innovative and privacy-respecting technologies.
 
 Connect with Dr. Nash on [LinkedIn](https://www.linkedin.com/in/dr-abraham-nash-866502270/).
