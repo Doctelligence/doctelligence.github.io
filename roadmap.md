@@ -27,10 +27,10 @@ description: Roadmap
 - **🔗 Implement a decentralized federated learning protocol:**
     - Operate over a decentralized network, enabling multiple participants to collaboratively train machine learning models without sharing raw data.
 
-    - **Example Use Case (a): Environmental Monitoring**
+    - **Example Use Case: Environmental Monitoring**
         - Create a decentralized federated learning platform for local air quality monitoring stations to collaboratively train an AI model that predicts air pollution levels across different regions without sharing raw sensor data. This system aims to provide real-time, privacy-preserving insights that inform policymakers, researchers, and the public, aiding in pollution management and environmental health initiatives.
           
-    - 📌 [GitHub Repository for Detailed Examples and Use Cases](<Your-GitHub-Link-Here>)
+    - 📌 See [GitHub Repository for Detailed Examples and Use Cases](<Your-GitHub-Link-Here>)
           
 ## 🌍 Community Building
 - **🌐 Launch website and social media channels.**
