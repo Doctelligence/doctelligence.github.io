@@ -5,13 +5,11 @@ permalink: "/adoption/"
 description: Adoption of DIN Mainnet
 ---
 
-# **Who Will Adopt DIN Mainnet?**
-
 Identifying potential adopters of the DIN mainnet involves aligning the platform's unique capabilities—such as on-device training, smaller AI models, decentralized control, and rewards—with the needs of various user groups. Below, we explore enhanced examples and rationales for potential adopters.
 
 ---
 
-## **The Transformative Nature of DIN**
+# **The Transformative Nature of DIN**
 
 Before diving into specific adoption scenarios, it’s crucial to recognize that DIN signifies a paradigm shift in data ownership, AI training, and decentralized collaboration. Similar to how blockchain technology unlocked entirely new use cases and business models, DIN facilitates possibilities that were previously impractical or unattainable.
 
