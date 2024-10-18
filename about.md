@@ -26,7 +26,6 @@ Doctelligence is not just another AI company—we're creating the infrastructure
 - **Data Sovereignty**: We integrate with existing personal data stores, ensuring that your data remains under your control on your own device at all times.
 - **On-Device AI Training**: Our network facilitates federated learning, allowing AI models to be trained directly on users' devices across diverse data sources without compromising data privacy.
 - **Blockchain-Powered Coordination and Incentivization:** We leverage blockchain technology to manage coordination and reward distribution across our borderless network. Our cryptographic rewards mechanism ensures transparency and fairness, compensating participants for their contributions to AI development, regardless of their location.
-- **Open Ecosystem**: We're building a network where developers, researchers, and individuals can participate in creating more effective and ethical AI solutions through decentralized means.
 
 ## Our Approach
 
@@ -37,6 +36,9 @@ Doctelligence stands apart through our commitment to:
 - **Fairness**: Our reward system ensures all contributors are fairly compensated, irrespective of their geographic location.
 - **Scalability**: Our architecture is designed to grow with the needs of the global AI community, leveraging the power of individual devices worldwide.
 - **Interoperability**: We're building bridges between different blockchain networks and AI ecosystems to create a truly borderless AI development environment.
+
+- **Open Ecosystem**: We're building a network where developers, researchers, and individuals can participate in creating more effective and ethical AI solutions through decentralized means.
+
 
 ## Join Us
 
