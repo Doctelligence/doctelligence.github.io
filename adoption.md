@@ -1,6 +1,7 @@
 ---
 title: Adoption
 layout: page
+permalink: "/adoption/"
 description: Adoption of DIN Mainnet
 ---
 
