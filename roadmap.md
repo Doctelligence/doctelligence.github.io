@@ -43,17 +43,17 @@ description: Roadmap
 
 # 🔧 Phase 2: Alpha Development and Testing (12-18 months)
 
-### 🔬 Alpha Testing
+## 🔬 Alpha Testing
 - 🧑‍🔬 Conduct closed alpha tests with a small group of participants.
 - 📥 Gather and incorporate user feedback.
 
-### 📊 Federated Learning Protocol Testbed Enhancements
+## 📊 Federated Learning Protocol Testbed Enhancements
 - ⚡ Optimize testbed for efficiency and scalability.
 - 🔗 Integrate with Ethereum blockchain ecosystems and other relevant blockchains for testing.
 - 💸 Develop and test a cryptographic reward distribution system as part of the decentralized intelligence network testbed technology enhancements.
 - 🛡️ Implement a decentralized auditing protocol.
 
-### 🤝 Partnerships
+## 🤝 Partnerships
 - 📡 Establish partnerships with data providers and AI companies.
 - 🎓 Collaborate with academic institutions for research and development.
 
@@ -61,19 +61,19 @@ description: Roadmap
 
 # 🌱 Phase 3: Beta Launch and Ecosystem Growth (18-24 months)
 
-### 🚀 Beta Release
+## 🚀 Beta Release
 - 🌍 Launch public beta of the DIN network.
 - 🛠️ Onboard early adopters and data contributors.
 
-### 🛠️ Developer Tools and SDK
+## 🛠️ Developer Tools and SDK
 - 🛠️ Release developer tools and SDK for building on DIN.
 - 🧑‍💻 Host hackathons to encourage ecosystem growth.
 
-### 🗳️ Governance Framework
+## 🗳️ Governance Framework
 - 🏛️ Establish decentralized governance model.
 - 📊 Implement voting mechanisms for protocol upgrades.
 
-### 🌐 Ecosystem Expansion
+## 🌐 Ecosystem Expansion
 - 🌱 Attract and onboard AI model developers.
 - 🛠️ Integrate with existing AI marketplaces and platforms.
 
@@ -81,24 +81,24 @@ description: Roadmap
 ---
 # 🌐 Phase 4: Mainnet Launch and Scaling (24-36 months)
 
-### 🖥️ Mainnet Deployment
+## 🖥️ Mainnet Deployment
 - 🏁 Launch DIN mainnet with full functionality on Ethereum blockchain ecosystems.
 - 🛠️ Migrate beta users to mainnet.
 
-### ⚡ Performance Optimization
+## ⚡ Performance Optimization
 - 🚀 Continuously improve scalability and efficiency of the network.
 - 🛤️ Implement layer 2 and other scaling solutions for enhanced throughput.
 
-### 🔬 Advanced Features
+## 🔬 Advanced Features
 - 🔗 Implement cross-chain interoperability to facilitate seamless data exchange across different blockchain platforms.
 - ⚙️ Introduce modular architecture to allow easy upgrades and enhancements of network functionalities.
 - 🌐 Develop API standards for third-party developers to create compatible applications.
 
-### 👥 Community Engagement
+## 👥 Community Engagement
 - 🏛️ Transition to community-based governance (non-coin based).
 - 💡 Establish grants and incubation programs for ecosystem projects.
 
-### 🛠️ Real-world Applications
+## 🛠️ Real-world Applications
 - 📱 Foster development of DApps leveraging DIN for various industries.
 - 🌍 Support projects addressing global challenges using decentralized AI.
 - 💡 Explore circular token economy applications and launch network-specific applications.
@@ -107,24 +107,24 @@ description: Roadmap
 
 # 🔭 Phase 5: Long-term Vision and Innovation (36+ months)
 
-### 🧑‍🔬 Research and Development
+## 🧑‍🔬 Research and Development
 - 🧪 Establish DIN research lab for advancing blockchain innovations in AI coordination.
 - 📡 Collaborate on testing and implementing advanced federated learning and privacy-preserving AI techniques developed by partners.
 
-### 🔗 Interoperability and Standards
+## 🔗 Interoperability and Standards
 - 🌍 Work with industry bodies to establish standards for decentralized AI networks.
 - 🔗 Develop bridges to other blockchain networks and AI ecosystems.
 
-### 🛠️ AI Marketplace
+## 🛠️ AI Marketplace
 - 🏪 Launch a decentralized marketplace for AI models and datasets.
 - 🔎 Enable transparent sharing of datasets and models, ensuring fair compensation for contributors.
 - 🛡️ Implement robust verification mechanisms to ensure quality and trustworthiness of marketplace offerings.
 
-### 🌍 Global Expansion
+## 🌍 Global Expansion
 - 🏢 Establish regional hubs for localized support and growth.
 - 📜 Comply with regional regulations and data protection laws.
 
-### 🏢 Enterprise Adoption
+## 🏢 Enterprise Adoption
 - 💼 Develop enterprise-grade solutions and support.
 - 🏛️ Onboard major corporations and institutions through tailored integration services and support.
 - 📈 Provide analytics and insights tools to help enterprises leverage AI solutions effectively.
