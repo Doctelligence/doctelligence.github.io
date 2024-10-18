@@ -13,11 +13,9 @@ At Doctelligence, we're pioneering a new era of AI development—one that's open
 
 Doctelligence's mission is to create a decentralized ecosystem that transforms how AI is trained and developed. We're building a network that enables:
 
-- **Effective AI training on individual devices within sovereign data networks**
-- **Fair, trustless, and transparent rewards for data contributors**
-- **Preservation of individual data privacy and control**
-- **Decentralized AI development unconstrained by geographic boundaries**
-- **Regulatory compliance through data localization, where no raw data leaves personal data stores**
+- **Data Sovereignty:** Full control of data with personal data stores, ensuring it stays secure while contributing to AI.  
+- **Decentralized AI:** Engage in decentralized AI training by sharing only model updates, keeping your data private.  
+- **Fair Rewards:** Earn cryptographic rewards through a trustless public blockchain, benefiting from on-device AI training.  
 
 Our approach ensures that only model updates are shared across the network, maintaining data sovereignty and facilitating AI advancement without compromising individual privacy or regulatory requirements.
 
@@ -25,11 +23,10 @@ Our approach ensures that only model updates are shared across the network, main
 
 Doctelligence is not just another AI company—we're creating the infrastructure for a new paradigm in artificial intelligence:
 
-- **On-Device AI Training**: Our network facilitates federated learning, allowing AI models to be trained directly on users' devices across diverse data sources without compromising data privacy.
 - **Data Sovereignty**: We integrate with existing personal data stores, ensuring that your data remains under your control on your own device at all times.
-- **Blockchain-Powered Coordination**: We leverage blockchain technology to manage coordination and reward distribution, ensuring transparency and immutability across our borderless network.
-- **Blockchain-Powered Incentivization**: Our cryptographic rewards mechanism, built on a public blockchain, fairly and transparently compensates participants for their contributions to AI development, regardless of their location.
-- - **Open Ecosystem**: We're building a network where developers, researchers, and individuals can participate in creating more effective and ethical AI solutions through decentralized means.
+- **On-Device AI Training**: Our network facilitates federated learning, allowing AI models to be trained directly on users' devices across diverse data sources without compromising data privacy.
+- **Blockchain-Powered Coordination and Incentivization:** We leverage blockchain technology to manage coordination and reward distribution across our borderless network. Our cryptographic rewards mechanism ensures transparency and fairness, compensating participants for their contributions to AI development, regardless of their location.
+- **Open Ecosystem**: We're building a network where developers, researchers, and individuals can participate in creating more effective and ethical AI solutions through decentralized means.
 
 ## Our Approach
 
