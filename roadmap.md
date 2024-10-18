@@ -30,14 +30,16 @@ description: Roadmap
     - **Example Use Case (a): Environmental Monitoring**
         - Create a decentralized federated learning platform for local air quality monitoring stations to collaboratively train an AI model that predicts air pollution levels across different regions without sharing raw sensor data. This system aims to provide real-time, privacy-preserving insights that inform policymakers, researchers, and the public, aiding in pollution management and environmental health initiatives.
           
-    - **Example Use Case (b): Food Insecurity Prediction**
-        - Develop a decentralized federated learning platform for food banks to collaboratively train an AI model that predicts food insecurity trends and optimizes food distribution without sharing sensitive client data. This initiative aims to create an open-source model that informs policymakers, aid organizations, and communities about areas of need, improving resource allocation and reducing hunger.
-          
     - 📌 [GitHub Repository for Detailed Examples and Use Cases](<Your-GitHub-Link-Here>)
           
 ## 🌍 Community Building
 - **🌐 Launch website and social media channels.**
 - **🗣️ Engage with AI and blockchain communities to gather feedback.**
+
+---
+
+## 🔄 Token Considerations
+We will consider a token launch; however, this is speculative and only if it aligns with our vision and demonstrates appropriate utility. Doctelligence Labs is pursuing traditional funding to provide a stable source of capital for technology development as a lab. Native tokens are speculative assets and subject to fluctuations. While this volatility can be advantageous for certain applications, the DIN mainnet is intended to reward participants with non-native stablecoin assets for price stability, ensuring effective and stable valuation of reimbursements for those offering data for training. In later use cases, circular token economies may prove beneficial, and additional use cases will be explored as the project evolves.
 
 ---
 
@@ -77,7 +79,6 @@ description: Roadmap
 - 🌱 Attract and onboard AI model developers.
 - 🛠️ Integrate with existing AI marketplaces and platforms.
 
-
 ---
 # 🌐 Phase 4: Mainnet Launch and Scaling (24-36 months)
 
@@ -97,6 +98,9 @@ description: Roadmap
 ## 👥 Community Engagement
 - 🏛️ Transition to community-based governance (non-coin based).
 - 💡 Establish grants and incubation programs for ecosystem projects.
+
+## 💰 Revenue Model
+- **🌐 Network Growth:** The revenue model focuses on expanding the network to generate revenue through network fees, which will be utilized for training. This sustainable approach ensures ongoing development and support for the DIN ecosystem.
 
 ## 🛠️ Real-world Applications
 - 📱 Foster development of DApps leveraging DIN for various industries.
