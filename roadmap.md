@@ -117,7 +117,8 @@ description: Roadmap
 
 ### 🛠️ AI Marketplace
 - 🏪 Launch a decentralized marketplace for AI models and datasets.
-- 🔎 ...
+- 🔎 Enable transparent sharing of datasets and models, ensuring fair compensation for contributors.
+- 🛡️ Implement robust verification mechanisms to ensure quality and trustworthiness of marketplace offerings.
 
 ### 🌍 Global Expansion
 - 🏢 Establish regional hubs for localized support and growth.
@@ -125,5 +126,7 @@ description: Roadmap
 
 ### 🏢 Enterprise Adoption
 - 💼 Develop enterprise-grade solutions and support.
-- 🏛️ Onboard major corporations and institutions.
+- 🏛️ Onboard major corporations and institutions through tailored integration services and support.
+- 📈 Provide analytics and insights tools to help enterprises leverage AI solutions effectively.
+
 
