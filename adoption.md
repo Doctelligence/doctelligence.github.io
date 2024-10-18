@@ -4,13 +4,7 @@ layout: page
 description: Adoption of DIN Mainnet
 ---
 
-# **Who Will Adopt DIN Mainnet?**  
-
-When answering who will adopt the DIN mainnet, it's essential to match the platform's capabilities (on-device training, smaller AI models, decentralized control, and rewards) with relevant user groups. Here are enhanced examples and rationale for potential adopters:
-
----
-
-## **The Transformative Nature of DIN**
+# **The Transformative Nature of DIN**
 
 Before delving into specific adoption scenarios, it's crucial to understand that DIN represents a paradigm shift in how we approach data ownership, AI training, and decentralized collaboration. Much like how blockchain technology enabled entirely new use cases and business models, DIN opens up possibilities that were previously impractical or impossible.
 
@@ -18,11 +12,9 @@ The scenarios and adoptions described below should be viewed through this transf
 
 ---
 
-## **Reimagining Data Collection in the Peripheries**
+## **Who Will Adopt DIN Mainnet?**  
 
-DIN may also **reveal new and innovative ways of recording and collecting data at the edges (or peripheries) of networks**. This decentralized approach contrasts with traditional methods of data collection, where companies or designated entities act as intermediaries. Instead, **DIN empowers individuals, small organizations, or devices to become data contributors, processing and managing information directly**.  
-
-This process is **incentivized similarly to how miners in a blockchain ecosystem are rewarded**, creating more efficient and secure ecosystems by reducing reliance on centralized collectors and shifting power to participants across distributed networks.
+When answering who will adopt the DIN mainnet, it's essential to match the platform's capabilities (on-device training, smaller AI models, decentralized control, and rewards) with relevant user groups. Here are enhanced examples and rationale for potential adopters:
 
 ---
 
@@ -149,10 +141,18 @@ While large corporations hold vast amounts of data, these entities are not the o
 
 ---
 
-## **Token Economics:**
+## **Token Economies:**
 - Participants in decentralized finance (DeFi) ecosystems looking for innovative use cases for their data.
 - Token holders seeking to monetize their contributions to the DIN network.
 - Institutions exploring the intersection of finance, data, and decentralized governance.
+
+---
+
+## **Reimagining Data Collection in the Peripheries**
+
+DIN may also **reveal new and innovative ways of recording and collecting data at the edges (or peripheries) of networks**. This decentralized approach contrasts with traditional methods of data collection, where companies or designated entities act as intermediaries. Instead, **DIN empowers individuals, small organizations, or devices to become data contributors, processing and managing information directly**.  
+
+This process is **incentivized similarly to how miners in a blockchain ecosystem are rewarded**, creating more efficient and secure ecosystems by reducing reliance on centralized collectors and shifting power to participants across distributed networks.
 
 ---
 
