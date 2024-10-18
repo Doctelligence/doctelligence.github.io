@@ -149,6 +149,7 @@ While large corporations hold vast data reserves, they are not the sole players 
 4. **Nonprofit Organizations and Public Sector:**
     - Nonprofits and research institutions engaged in citizen science and open data initiatives.
     - Government agencies interested in decentralized solutions to enhance data transparency and accessibility.
+  
 ---
 
 DIN’s transformative approach to data ownership and AI collaboration will lead to a diverse range of adopters united by the shared goal of unlocking new value from data while preserving privacy and autonomy. With its unique capabilities, DIN stands ready to empower participants, shape a more decentralized future, and redefine how data can drive innovation across sectors.
