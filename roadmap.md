@@ -33,11 +33,11 @@ description: Roadmap
     - **Example Use Case (b): Food Insecurity Prediction**
         - Develop a decentralized federated learning platform for food banks to collaboratively train an AI model that predicts food insecurity trends and optimizes food distribution without sharing sensitive client data. This initiative aims to create an open-source model that informs policymakers, aid organizations, and communities about areas of need, improving resource allocation and reducing hunger.
           
+    - 📌 [GitHub Repository for Detailed Examples and Use Cases](<Your-GitHub-Link-Here>)
+          
 ## 🌍 Community Building
 - **🌐 Launch website and social media channels.**
 - **🗣️ Engage with AI and blockchain communities to gather feedback.**
-
-## 📌 [GitHub Repository for Detailed Examples and Use Cases](<Your-GitHub-Link-Here>)
 
 ---
 
