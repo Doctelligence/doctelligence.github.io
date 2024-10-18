@@ -115,6 +115,7 @@ description: Roadmap
 ### 🛠️ Real-world Applications
 - 📱 Foster development of DApps leveraging DIN for various industries
 - 🌍 Support projects addressing global challenges using decentralized AI
+- 💡Explore circular token economy applications and launch 
 
 ### 👥 Community Engagement
 - 🏛️ Transition to full community governance (non-coin based)
