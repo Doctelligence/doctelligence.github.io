@@ -5,7 +5,7 @@ permalink: "/adoption/"
 description: Adoption of DIN Mainnet
 ---
 
-Understanding the significance of the DIN mainnet involves recognizing how its unique capabilities—such as on-device training, smaller AI models, decentralized control, and rewards—align with the evolving needs of various user groups. Below, we explore enhanced examples and rationales for embracing the DIN mainnet.
+Understanding the significance of the DIN mainnet involves recognizing how its unique capabilities—such as on-device training, smaller AI models, decentralized control, and rewards—align with the evolving needs of various user groups.
 
 ---
 
