@@ -4,24 +4,39 @@ layout: page
 description: Roadmap
 ---
 
-## 🚀 Phase 1: Foundation and Proof of Concept (6-12 months)
+# 🚀 Phase 1: Foundation and Proof of Concept (6-12 months)
 
-### 👥 Team Building
-- 🔧 Recruit core team members: blockchain developers, AI/ML experts, cryptographers
-- 🧠 Establish advisory board with industry experts
+## 👥 Team Building
+- **🔧 Recruit core team members:**
+    - Blockchain developers
+    - AI/ML experts
+    - Cryptographers
+- **🧠 Establish an advisory board:**
+    - Include industry experts.
 
-### 📄 Whitepaper and Technical Specification
-- 📖 Publish comprehensive whitepaper detailing DIN's architecture
-- 📝 Develop technical specifications for integrating existing personal data stores (PDS), federated learning protocol testbed, and reward mechanism
+## 📄 Whitepaper and Technical Specification
+- **📖 Refine whitepaper:**
+    - Design with fine-tooth comb input from specialist engineers.
+- **📝 Develop technical specifications:**
+    - For the Decentralized Federated Learning for Impact-Driven AI platform, integrating existing personal data stores (PDS), federated learning protocol testbed, and reward mechanism.
 
-### 🧪 Prototype Development
-- 🔬 Establish a small-scale testbed to validate the DIN protocol with integrated PDS technology.
-- 🔗 Implement basic federated learning protocol testbed on a blockchain testnet
-- 💰 Develop initial version of the reward mechanism
+## 🧪 Prototype Development
+- **🔬 Establish a small-scale testbed:**
+    - Validate the DIN protocol using demonstration use cases to explore practical applications and effectiveness.
+- **🔗 Implement a decentralized federated learning protocol:**
+    - Operate over a decentralized network, enabling multiple participants to collaboratively train machine learning models without sharing raw data.
 
-### 🌍 Community Building
-- 🌐 Launch website and social media channels
-- 🗣️ Engage with AI and blockchain communities to gather feedback
+    - **Example Use Case (a): Environmental Monitoring**
+        - Create a decentralized federated learning platform for local air quality monitoring stations to collaboratively train an AI model that predicts air pollution levels across different regions without sharing raw sensor data. This system aims to provide real-time, privacy-preserving insights that inform policymakers, researchers, and the public, aiding in pollution management and environmental health initiatives.
+          
+    - **Example Use Case (b): Food Insecurity Prediction**
+        - Develop a decentralized federated learning platform for food banks to collaboratively train an AI model that predicts food insecurity trends and optimizes food distribution without sharing sensitive client data. This initiative aims to create an open-source model that informs policymakers, aid organizations, and communities about areas of need, improving resource allocation and reducing hunger.
+          
+## 🌍 Community Building
+- **🌐 Launch website and social media channels.**
+- **🗣️ Engage with AI and blockchain communities to gather feedback.**
+
+## 📌 [GitHub Repository for Detailed Examples and Use Cases](<Your-GitHub-Link-Here>)
 
 ---
 
