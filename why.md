@@ -1,7 +1,7 @@
 ---
 title: Why DIN Mainnet Matters
 layout: page
-permalink: "/adoption/"
+permalink: "/why/"
 description: Adoption of DIN Mainnet
 ---
 
