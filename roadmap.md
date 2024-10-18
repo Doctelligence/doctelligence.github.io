@@ -12,7 +12,8 @@ description: Roadmap
     - AI/ML experts
     - Cryptographers
 - **🧠 Establish an advisory board:**
-    - Include industry experts.
+    - Include industry experts to guide project development and implementation.
+    - Collaborate with Cambridge Frontiers Lab to leverage their expertise and network, enhancing project visibility and support. **✅ Completed:** Officially listed on the workstream with Cambridge Frontiers Lab after being approached. [Cambridge Frontiers Lab](https://ftlcam.vercel.app/)
 
 ## 📄 Whitepaper and Technical Specification
 - **📖 Refine whitepaper:**
