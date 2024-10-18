@@ -105,7 +105,7 @@ description: Roadmap
 
 ---
 
-## 🔭 Phase 5: Long-term Vision and Innovation (36+ months)
+# 🔭 Phase 5: Long-term Vision and Innovation (36+ months)
 
 ### 🧑‍🔬 Research and Development
 - 🧪 Establish DIN research lab for advancing blockchain innovations in AI coordination.
