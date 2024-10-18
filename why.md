@@ -9,9 +9,9 @@ Understanding the significance of the DIN mainnet involves recognizing how its u
 
 As we navigate the transformative landscape of data ownership and decentralized collaboration, two critical questions often arise:
 
-## **When Would Participants Own or Control Data?**
+### **When Would Participants Own or Control Data?**
 
-## **Why Would Participants Join DIN Despite Corporate Data Silos?**
+### **Why Would Participants Join DIN Despite Corporate Data Silos?**
 
 These questions help clarify the motivations and implications of adopting the DIN mainnet, paving the way for a deeper understanding of its potential.
 
