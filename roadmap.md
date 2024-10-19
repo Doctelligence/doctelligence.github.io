@@ -59,8 +59,6 @@ description: Roadmap
                 - **Model Update Sharing:**
                     - **Encrypted Updates:** Stations share encrypted model parameters or gradients with a central aggregator or via a decentralized peer-to-peer network.
                     - **Privacy Preservation Techniques:** Differential Privacy to prevent inference of raw data and Secure Multi-Party Computation (SMPC) to prevent data access.
-    
-        - 📌 See [GitHub Repository for Detailed Examples and Use Cases](<Your-GitHub-Link-Here>)
       </div>
     </details>
 
@@ -144,8 +142,6 @@ description: Roadmap
                         - Allocate resources more effectively.
                         - Develop targeted programs.
                         - Monitor the impact of interventions.
-    
-        - 📌 See [GitHub Repository for Detailed Examples and Use Cases](<Your-GitHub-Link-Here>)
       </div>
     </details>
 
