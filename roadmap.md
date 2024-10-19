@@ -14,6 +14,10 @@ description: Roadmap
 - **🧠 Establish an advisory board:**
     - Officially listed on the workstream with Cambridge Frontiers Lab after being approached: [Cambridge Frontiers Lab](https://ftlcam.vercel.app/). Collaborate to leverage their expertise and network, enhancing project visibility and support.
     - Include industry experts to guide project development and implementation.
+ 
+- **💰 Raise Pre-seed Funding:**
+    - Aim to raise between $50k to $100k to support initial development and operational costs as a lab entity.
+    - Incorporate as a formal entity to facilitate fundraising, partnership opportunities, and structured governance.
 
 ## 📄 Whitepaper and Technical Specification
 - **📖 Refine whitepaper:**
@@ -151,8 +155,17 @@ description: Roadmap
 
 ---
 
-## 🔄 Token Considerations
-We will consider a token launch; however, this is speculative and only if it aligns with our vision and demonstrates appropriate utility. Doctelligence Labs is pursuing traditional funding to provide a stable source of capital for technology development as a lab. Native tokens are speculative assets and subject to fluctuations. While this volatility can be advantageous for certain applications, the DIN mainnet is intended to reward participants with non-native stablecoin assets for price stability, ensuring effective and stable valuation of reimbursements for those offering data for training. In later use cases, circular token economies may prove beneficial, and additional use cases will be explored as the project evolves.
+## 💰 Seed Funding
+- **Aim for Seed Round:**
+    - Target raising anywhere from $1-3 million to support the development of deep-tech technologies and infrastructure for Doctelligence.
+    - Focus on attracting investors who align with our vision for innovation and sustainability in decentralized intelligence.
+
+## 🔄 Token Launch
+- **Consideration of Token Launch:**
+    - While we are open to the idea of a token launch, we recognize that this is a speculative endeavor. Our focus will be on ensuring that any potential token complements our vision and demonstrates clear utility within the network, rather than being a necessity for its operation.
+    - Doctelligence Labs is pursuing traditional funding to provide a stable source of capital for technology development as a lab.
+    - Native tokens are speculative assets and subject to fluctuations. While this volatility can be advantageous for certain applications, the DIN mainnet is intended to reward participants with non-native stablecoin assets for price stability, ensuring effective and stable valuation of reimbursements for those offering data for training.
+    - In later use cases, circular token economies may prove beneficial, and additional use cases will be explored as the project evolves.
 
 ---
 
@@ -173,12 +186,16 @@ We will consider a token launch; however, this is speculative and only if it ali
 - 🎓 Collaborate with academic institutions for research and development.
 
 ---
-
 # 🌱 Phase 3: Beta Launch and Ecosystem Growth (18-24 months)
 
 ## 🚀 Beta Release
 - 🌍 Launch public beta of the DIN network.
 - 🛠️ Onboard early adopters and data contributors.
+
+## 💰 Series A Funding
+- **Aim for Series A Round:**
+    - Target raising additional funding to support the expansion of the DIN ecosystem and further technology development.
+    - Focus on attracting investors who are committed to advancing decentralized intelligence and its applications.
 
 ## 🛠️ Developer Tools and SDK
 - 🛠️ Release developer tools and SDK for building on DIN.
@@ -193,6 +210,7 @@ We will consider a token launch; however, this is speculative and only if it ali
 - 🛠️ Integrate with existing AI marketplaces and platforms.
 
 ---
+
 # 🌐 Phase 4: Mainnet Launch and Scaling (24-36 months)
 
 ## 🖥️ Mainnet Deployment
@@ -211,6 +229,11 @@ We will consider a token launch; however, this is speculative and only if it ali
 ## 👥 Community Engagement
 - 🏛️ Transition to community-based governance (non-coin based).
 - 💡 Establish grants and incubation programs for ecosystem projects.
+
+## 💰 Subsequent Funding Rounds
+- **Prepare for Additional Rounds:**
+    - Explore opportunities for Series B and beyond to support ongoing development and scaling efforts.
+    - Focus on attracting investors interested in the growth of decentralized intelligence and AI innovation.
 
 ## 💰 Revenue Model
 - **🌐 Network Growth:** The revenue model focuses on expanding the network to generate revenue through network fees, which will be utilized for training. This sustainable approach ensures ongoing development and support for the Doctelligence ecosystem.
