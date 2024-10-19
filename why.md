@@ -41,6 +41,8 @@ These questions help clarify the motivations and implications of adopting the DI
     - DIN solves this issue by enabling **opt-in to federated learning protocols through a simple UI**. Users can participate in AI training without their data ever leaving their PDS and earn rewards for doing so.  
     - **Regulatory frameworks (e.g., GDPR, CCPA) now empower individuals with new data ownership rights, aligning with DIN’s structure to offer secure and privacy-preserving algorithm training on data without sharing it.**  
     - Participants are incentivized through DIN's **rewards system in stablecoins**, ensuring sustainable collaboration much like miners in a blockchain ecosystem.
+    - **Circular token economies that reward participants are also possible modular extensions, where stablecoins are not necessary—hence, emergent use cases can create value across new and different ecosystems.**
+
 
 - **DIN's transformative impact:**
     - **The narrative of data ownership spans a spectrum—from siloed data stores to personal data stores.** In siloed models, third-party actors collect, store, and control access to data while retaining the financial benefits.
