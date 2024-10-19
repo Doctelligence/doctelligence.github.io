@@ -21,12 +21,12 @@ description: Roadmap
 - **📝 Develop technical specifications:**
     - For the Decentralized Intelligence Network (DIN), encompassing a federated learning protocol testbed and reward mechanism. Specifically, this will form the decentralized AI network, with a user interface (UI) that serves as an entry point for users to interact with the network, participate in training, and contribute data effectively, whilst receiving rewards.
 
-## 🧪 Prototype Development
+### 🧪 Prototype Development
 - **🔬 Establish a small-scale testbed:**
-    - Validate the DIN protocol using demonstration use cases to explore practical applications and effectiveness.
-- **🔗 Develop and implement the DIN protocol for decentralized federated learning:**
-    - Establish a decentralized framework that allows multiple participants to collaborate in training machine learning models while maintaining data privacy and sovereignty.
-  
+    - Use demonstration use cases to validate the DIN protocol, highlighting its practical applications and effectiveness within a controlled environment.
+
+- **🔗 Develop and implement the DIN protocol:**
+    - Create a decentralized framework that enables multiple participants to collaboratively train machine learning models while ensuring data privacy and sovereignty. This involves:
     - **Key Components of the DIN Protocol:**
         - **Decentralized Data Handling:** 
             - Enable participants to contribute model updates without sharing their raw data, ensuring data remains within their personal data stores (PDS).
