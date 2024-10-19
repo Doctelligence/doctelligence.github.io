@@ -12,9 +12,10 @@ description: Roadmap
     - Cryptography and privacy-preserving tech  
     - Product design, governance, and open-source scaling
       
-- **🧠 Establish an advisory board:**
-    - Officially listed on the workstream with Cambridge Frontiers Lab after being approached: [Cambridge Frontiers Lab](https://ftlcam.vercel.app/). Collaborate to leverage their expertise and network, enhancing project visibility and support.
-    - Include industry experts to guide project development and implementation.
+🧠 **Establish an Ecosystem of Support:**  
+- Collaborate with [Cambridge Frontiers Lab](https://www.frontiers.cam.ac.uk/) to leverage their expertise and network, enhancing visibility and strategic alignment.  
+- Engage with industry experts, researchers, and practitioners to guide project development and implementation.  
+- Build relationships that foster long-term support across technical, governance, and community growth areas.  
 
 - **💰 Raise Pre-seed Funding:**
     - Aim to raise between $50k to $100k to support initial development and operational costs as a lab entity.
