@@ -21,12 +21,6 @@ description: Roadmap
     - Aim to raise between $50k to $100k to support initial development and operational costs as a lab entity.
     - Incorporate as a formal entity to facilitate fundraising, partnership opportunities, and structured governance.
 
-## 📄 Whitepaper and Technical Specification
-- **📖 Refine whitepaper:**
-    - Design with fine-tooth comb input from specialist engineers. In the early phases, the whitepaper will be treated as a living document, continually updated to reflect new insights and developments throughout the project lifecycle.
-- **📝 Develop technical specifications:**
-    - For the Decentralized Intelligence Network (DIN), encompassing a federated learning protocol testbed and reward mechanism. This will form the decentralized AI network, featuring a user interface (UI) that serves as an entry point for users to interact with the network, participate in training, and contribute data effectively while receiving rewards.
-
 ### 🧪 Prototype Development
 - **🔬 Establish a small-scale testbed:**
     - Use demonstration use cases to validate the DIN protocol, highlighting its practical applications and effectiveness within a controlled environment.
