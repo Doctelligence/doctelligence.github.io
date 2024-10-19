@@ -167,7 +167,7 @@ description: Roadmap
     - Native tokens are speculative assets and subject to volatility. The DIN mainnet will reward participants with non-native stablecoin assets to ensure effective and stable reimbursements for those contributing data for training.
     - As the project evolves, we will explore circular token economies and additional use cases.
 
----
+--- 
 
 # 🔧 Phase 2: Alpha Development and Testing (12-18 months)
 
@@ -176,38 +176,39 @@ description: Roadmap
 - 📥 Gather and incorporate user feedback.
 
 ## 📊 Federated Learning Protocol Testbed Enhancements
-- ⚡ Optimize testbed for efficiency and scalability.
-- 🔗 Integrate with Ethereum blockchain ecosystems and other relevant blockchains for testing.
-- 💸 Develop and test a cryptographic reward distribution system as part of the decentralized intelligence network testbed technology enhancements.
-- 🛡️ Implement a decentralized auditing protocol.
+- ⚡ Optimize the federated learning protocol for increased efficiency, including techniques such as adaptive learning rates and model compression to reduce communication overhead.
+- 🔗 Integrate seamlessly with Ethereum and other relevant blockchain ecosystems for enhanced interoperability.
+- 🔒 Enhance privacy-preserving features, implementing differential privacy and secure multiparty computation to protect user data during training.
+- 📣 Market the project to attract and recruit evaluators for early testing, simulating their involvement to gather insights on network performance and user experience.
 
 ## 🤝 Partnerships
-- 📡 Establish partnerships with data providers and AI companies.
-- 🎓 Collaborate with academic institutions for research and development.
+- 📡 Establish partnerships with data providers and AI companies to enhance data availability and quality.
+- 🎓 Collaborate with academic institutions for ongoing research and development.
 
 ---
+
 # 🌱 Phase 3: Beta Launch and Ecosystem Growth (18-24 months)
 
 ## 🚀 Beta Release
 - 🌍 Launch public beta of the DIN network.
-- 🛠️ Onboard early adopters and data contributors.
+- 🛠️ Onboard early adopters and data contributors to foster community engagement.
 
 ## 💰 Series A Funding
 - **Aim for Series A Round:**
     - Target raising additional funding to support the expansion of the DIN ecosystem and further technology development.
-    - Focus on attracting investors who are committed to advancing decentralized intelligence and its applications.
+    - Focus on attracting investors committed to advancing decentralized intelligence and its applications.
 
 ## 🛠️ Developer Tools and SDK
-- 🛠️ Release developer tools and SDK for building on DIN.
-- 🧑‍💻 Host hackathons to encourage ecosystem growth.
+- 🛠️ Release comprehensive developer tools and SDK to facilitate application development on DIN.
+- 🧑‍💻 Host hackathons to encourage ecosystem growth and innovation.
 
 ## 🗳️ Governance Framework
-- 🏛️ Establish decentralized governance model.
-- 📊 Implement voting mechanisms for protocol upgrades.
+- 🏛️ Establish a decentralized governance model to empower stakeholders in decision-making processes.
+- 📊 Implement transparent non-coin-based mechanisms for protocol upgrades and community proposals.
 
 ## 🌐 Ecosystem Expansion
-- 🌱 Attract and onboard AI model developers.
-- 🛠️ Integrate with existing AI marketplaces and platforms.
+- 🌱 Attract and onboard AI model developers, fostering collaboration and innovation.
+- 🛠️ Integrate with existing AI marketplaces and platforms to enhance the network’s reach and functionality.
 
 ---
 
