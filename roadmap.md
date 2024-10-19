@@ -167,16 +167,16 @@ description: Roadmap
 
 # 🔧 Phase 2: Alpha Development and Testing (12-18 months)
 
-## 🔬 Alpha Testing
-- 🧑‍🔬 Conduct closed alpha tests with a small group of participants.
-- 📥 Gather and incorporate user feedback.
-
 ## 📊 Federated Learning Protocol Testbed Enhancements
 - ⚡ Optimize the federated learning protocol for increased efficiency, including techniques such as adaptive learning rates and model compression to reduce communication overhead.
 - 🔗 Integrate seamlessly with Ethereum and other relevant blockchain ecosystems for enhanced interoperability.
 - 🔒 Enhance privacy-preserving features, implementing differential privacy and secure multiparty computation to protect user data during training.
 - 📣 Market the project to attract and recruit evaluators for early testing, simulating their involvement to gather insights on network performance and user experience.
 
+## 🔬 Alpha Testing
+- 🧑‍🔬 Conduct closed alpha tests with a small group of participants.
+- 📥 Gather and incorporate user feedback.
+  
 ## 🤝 Partnerships
 - 📡 Establish partnerships with data providers and AI companies to enhance data availability and quality.
 - 🎓 Collaborate with academic institutions for ongoing research and development.
@@ -184,6 +184,10 @@ description: Roadmap
 ---
 
 # 🌱 Phase 3: Beta Launch and Ecosystem Growth (18-24 months)
+
+## 🛠️ Developer Tools and SDK
+- 🛠️ Release comprehensive developer tools and SDK to facilitate application development on DIN.
+- 🧑‍💻 Host hackathons to encourage ecosystem growth and innovation.
 
 ## 🚀 Beta Release
 - 🌍 Launch public beta of the DIN network.
@@ -194,14 +198,10 @@ description: Roadmap
     - Target raising additional funding to support the expansion of the DIN ecosystem and further technology development.
     - Focus on attracting investors committed to advancing decentralized intelligence and its applications.
 
-## 🛠️ Developer Tools and SDK
-- 🛠️ Release comprehensive developer tools and SDK to facilitate application development on DIN.
-- 🧑‍💻 Host hackathons to encourage ecosystem growth and innovation.
-
 ## 🗳️ Governance Framework
 - 🏛️ Establish a decentralized governance model to empower stakeholders in decision-making processes.
 - 📊 Implement transparent non-coin-based mechanisms for protocol upgrades and community proposals.
-
+  
 ## 🌐 Ecosystem Expansion
 - 🌱 Attract and onboard AI model developers, fostering collaboration and innovation.
 - 🛠️ Integrate with existing AI marketplaces and platforms to enhance the network’s reach and functionality.
