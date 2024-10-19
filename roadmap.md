@@ -12,7 +12,7 @@ description: Roadmap
     - Cryptography and privacy-preserving tech  
     - Product design, governance, and open-source scaling
       
-🧠 **Establish an Ecosystem of Support:**  
+## 🧠 Establish an Ecosystem of Support: 
 - Collaborate with [Cambridge Frontiers Lab](https://www.frontiers.cam.ac.uk/) to leverage their expertise and network, enhancing visibility and strategic alignment.  
 - Engage with industry experts, researchers, and practitioners to guide project development and implementation.  
 - Build relationships that foster long-term support across technical, governance, and community growth areas.  
@@ -21,7 +21,7 @@ description: Roadmap
     - Aim to raise between $50k to $100k to support initial development and operational costs as a lab entity.
     - Incorporate as a formal entity to facilitate fundraising, partnership opportunities, and structured governance.
 
-### 🧪 Prototype Development
+## 🧪 Prototype Development
 - **🔬 Establish a small-scale testbed:**
     - Use demonstration use cases to validate the DIN protocol, highlighting its practical applications and effectiveness within a controlled environment.
 
