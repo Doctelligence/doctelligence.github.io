@@ -8,11 +8,10 @@ description: Roadmap
 
 ## 👥 Team Building
 - **🔧 Recruit early founders and advisors:**
-    - Experts in blockchain development  
-    - Specialists in AI/ML and federated learning  
-    - Cryptography and privacy-preserving technologies  
-    - Product design and decentralized governance  
-    - Experience in scaling open-source communities  
+    - Blockchain, AI/ML, and federated learning  
+    - Cryptography and privacy-preserving tech  
+    - Product design, governance, and open-source scaling
+    - 
 - **🧠 Establish an advisory board:**
     - Officially listed on the workstream with Cambridge Frontiers Lab after being approached: [Cambridge Frontiers Lab](https://ftlcam.vercel.app/). Collaborate to leverage their expertise and network, enhancing project visibility and support.
     - Include industry experts to guide project development and implementation.
