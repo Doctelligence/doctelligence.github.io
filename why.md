@@ -56,7 +56,7 @@ These questions help clarify the motivations and implications of adopting the DI
 ### 2. **Open Data Initiatives and Decentralized Citizen Science**
 - **How it works:**
     - Participants in open data projects (e.g., environmental monitoring or citizen science) contribute data collected via personal sensors or local monitoring efforts.
-    - Instead of storing data on centralized platforms, they upload it to personal data stores (PDSs) and opt-in to DIN, allowing decentralized AI models to leverage their input for meaningful predictions.
+    - Instead of storing data on centralized platforms, they upload it to personal data stores (PDS) and opt-in to DIN, allowing decentralized AI models to leverage their input for meaningful predictions.
 - **Example:**
     - Local communities deploy air quality sensors, feeding data into a decentralized model to forecast pollution levels.
     - Biodiversity researchers collaborate on species identification models using decentralized image datasets from citizen scientists.
