@@ -21,9 +21,9 @@ description: Roadmap
 
 ## 📄 Whitepaper and Technical Specification
 - **📖 Refine whitepaper:**
-    - Design with fine-tooth comb input from specialist engineers.
+    - Design with fine-tooth comb input from specialist engineers. In the early phases, the whitepaper will be treated as a living document, continually updated to reflect new insights and developments throughout the project lifecycle.
 - **📝 Develop technical specifications:**
-    - For the Decentralized Intelligence Network (DIN), encompassing a federated learning protocol testbed and reward mechanism. Specifically, this will form the decentralized AI network, with a user interface (UI) that serves as an entry point for users to interact with the network, participate in training, and contribute data effectively, whilst receiving rewards.
+    - For the Decentralized Intelligence Network (DIN), encompassing a federated learning protocol testbed and reward mechanism. This will form the decentralized AI network, featuring a user interface (UI) that serves as an entry point for users to interact with the network, participate in training, and contribute data effectively while receiving rewards.
 
 ### 🧪 Prototype Development
 - **🔬 Establish a small-scale testbed:**
