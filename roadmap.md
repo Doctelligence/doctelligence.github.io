@@ -59,8 +59,8 @@ description: Roadmap
         - 📌 See [GitHub Repository for Detailed Examples and Use Cases](<Your-GitHub-Link-Here>)
 
 ## 🌍 Community Building
-- **🌐 Launch website and social media channels.**
-- **🗣️ Engage with AI and blockchain communities to gather feedback.**
+- 🌐 Launch website and social media channels.**
+- 🗣️ Engage with AI and blockchain communities to gather feedback.**
 
 ---
 
