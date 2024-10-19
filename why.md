@@ -87,7 +87,7 @@ These questions help clarify the motivations and implications of adopting the DI
 - **How it works:**
     - New regulations (e.g., Data Sovereignty frameworks) and market trends encourage companies to give individuals access to their data or allow for data portability.
     - DIN provides an infrastructure for decentralized AI training on participant-owned data.
-    - **Example:** Patients can request electronic health records (EHR) from hospitals and store them in a PDS, participating in AI research through DIN while retaining control.
+    - **Example:** Users can track their fitness activities using a local app that stores data directly on their smartphones. This data, including steps, workouts, and sleep patterns, is saved in a personal storage space on their devices. Users can then opt-in to share anonymized insights for AI-driven health studies while retaining full control over their personal fitness data.
 - **Why this makes sense:**
     - The regulatory environment is shifting towards data portability and sovereignty, empowering individuals to reclaim and control their data.
     - DIN's architecture aligns with the principles of data localization and sovereignty required by some jurisdictions.
