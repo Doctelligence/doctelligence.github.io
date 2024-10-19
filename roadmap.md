@@ -14,10 +14,6 @@ description: Roadmap
 - **🧠 Establish an advisory board:**
     - Officially listed on the workstream with Cambridge Frontiers Lab after being approached: [Cambridge Frontiers Lab](https://ftlcam.vercel.app/). Collaborate to leverage their expertise and network, enhancing project visibility and support.
     - Include industry experts to guide project development and implementation.
-- **💰 Raise Pre-seed Funding:**
-    - Aim to raise between $50k to $100k to support initial development and operational costs as a lab entity.
-    - Incorporate as a formal entity to facilitate fundraising, partnership opportunities, and structured governance.
-
 
 ## 📄 Whitepaper and Technical Specification
 - **📖 Refine whitepaper:**
@@ -154,11 +150,6 @@ description: Roadmap
 - 🗣️ Engage with AI and blockchain communities to gather feedback.
 
 ---
-
-## 💰 Seed Funding
-- **Aim for Deeptech Seed Round:**
-    - Target raising around $1 million to support the development of advanced technologies and infrastructure for Doctelligence Labs.
-    - Focus on attracting investors who align with our vision for innovation and sustainability in decentralized intelligence.
 
 ## 🔄 Token Considerations
 We will consider a token launch; however, this is speculative and only if it aligns with our vision and demonstrates appropriate utility. Doctelligence Labs is pursuing traditional funding to provide a stable source of capital for technology development as a lab. Native tokens are speculative assets and subject to fluctuations. While this volatility can be advantageous for certain applications, the DIN mainnet is intended to reward participants with non-native stablecoin assets for price stability, ensuring effective and stable valuation of reimbursements for those offering data for training. In later use cases, circular token economies may prove beneficial, and additional use cases will be explored as the project evolves.
