@@ -7,10 +7,12 @@ description: Roadmap
 # 🚀 Phase 1: Foundation and Proof of Concept (6-12 months)
 
 ## 👥 Team Building
-- **🔧 Recruit core team members:**
-    - Blockchain developers
-    - AI/ML experts
-    - Cryptographers
+- **🔧 Recruit early founders and advisors:**
+    - Experts in blockchain development  
+    - Specialists in AI/ML and federated learning  
+    - Cryptography and privacy-preserving technologies  
+    - Product design and decentralized governance  
+    - Experience in scaling open-source communities  
 - **🧠 Establish an advisory board:**
     - Officially listed on the workstream with Cambridge Frontiers Lab after being approached: [Cambridge Frontiers Lab](https://ftlcam.vercel.app/). Collaborate to leverage their expertise and network, enhancing project visibility and support.
     - Include industry experts to guide project development and implementation.
