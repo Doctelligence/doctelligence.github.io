@@ -12,8 +12,8 @@ description: Roadmap
     - AI/ML experts
     - Cryptographers
 - **🧠 Establish an advisory board:**
-    - Include industry experts to guide project development and implementation.
     - Officially listed on the workstream with Cambridge Frontiers Lab after being approached: [Cambridge Frontiers Lab](https://ftlcam.vercel.app/). Collaborate to leverage their expertise and network, enhancing project visibility and support.
+    - Include industry experts to guide project development and implementation.
 
 ## 📄 Whitepaper and Technical Specification
 - **📖 Refine whitepaper:**
@@ -43,23 +43,25 @@ description: Roadmap
     <details>
       <summary>📖 Click to expand for implementation details</summary>
 
-      - **Implementation:**
-          - **Data Collection:**
-              - Local Monitoring Stations Collect Data On:
-                  - Air Quality Metrics: Concentrations of pollutants such as PM2.5, PM10, NO₂, SO₂, CO, O₃.
-                  - Environmental Conditions: Temperature, humidity, wind speed and direction, atmospheric pressure.
-                  - Temporal Data: Time-stamped readings to capture diurnal and seasonal variations.
-                  - Geospatial Information: Exact or anonymized location data to map pollution levels geographically.
+      <div>
+        - **Implementation:**
+            - **Data Collection:**
+                - Local Monitoring Stations Collect Data On:
+                    - **Air Quality Metrics:** Concentrations of pollutants such as PM2.5, PM10, NO₂, SO₂, CO, O₃.
+                    - **Environmental Conditions:** Temperature, humidity, wind speed and direction, atmospheric pressure.
+                    - **Temporal Data:** Time-stamped readings to capture diurnal and seasonal variations.
+                    - **Geospatial Information:** Exact or anonymized location data to map pollution levels geographically.
 
-          - **Federated Learning:**
-              - **Local Model Training:**
-                  - Individual Training: Each station trains a local AI model using its own sensor data to predict future air quality levels.
-                  - Model Objectives: Short-term forecasts (e.g., next few hours), long-term trends (e.g., seasonal changes), anomaly detection (e.g., sudden spikes in pollution).
-              - **Model Update Sharing:**
-                  - Encrypted Updates: Stations share encrypted model parameters or gradients with a central aggregator or via a decentralized peer-to-peer network.
-                  - Privacy Preservation Techniques: Differential Privacy to prevent inference of raw data and Secure Multi-Party Computation (SMPC) to prevent data access.
+            - **Federated Learning:**
+                - **Local Model Training:**
+                    - **Individual Training:** Each station trains a local AI model using its own sensor data to predict future air quality levels.
+                    - **Model Objectives:** Short-term forecasts (e.g., next few hours), long-term trends (e.g., seasonal changes), anomaly detection (e.g., sudden spikes in pollution).
+                - **Model Update Sharing:**
+                    - **Encrypted Updates:** Stations share encrypted model parameters or gradients with a central aggregator or via a decentralized peer-to-peer network.
+                    - **Privacy Preservation Techniques:** Differential Privacy to prevent inference of raw data and Secure Multi-Party Computation (SMPC) to prevent data access.
     
-      - 📌 See [GitHub Repository for Detailed Examples and Use Cases](<Your-GitHub-Link-Here>)
+        - 📌 See [GitHub Repository for Detailed Examples and Use Cases](<Your-GitHub-Link-Here>)
+      </div>
     </details>
 
 - **Example Use Case: Enhancing Food Insecurity Prediction with Food Bank Data**
@@ -68,81 +70,83 @@ description: Roadmap
     <details>
       <summary>📖 Click to expand for implementation details</summary>
 
-      - **Implementation:**
-          - **Data Collection:**
-              - Local Data Sources:
-                  - Food Banks Collect Data On:
-                      - Client Demographics:
-                          - Age, family size, employment status (anonymized to protect privacy).
-                      - Food Inventory Levels:
-                          - Types and quantities of food available.
-                      - Distribution Patterns:
-                          - Frequency and volume of food distributions.
-                      - Demand Fluctuations:
-                          - Changes in the number of clients served over time.
-                      - Local Socio-Economic Indicators:
-                          - Unemployment rates, housing costs, access to transportation.
+      <div>
+        - **Implementation:**
+            - **Data Collection:**
+                - Local Data Sources:
+                    - Food Banks Collect Data On:
+                        - **Client Demographics:**
+                            - Age, family size, employment status (anonymized to protect privacy).
+                        - **Food Inventory Levels:**
+                            - Types and quantities of food available.
+                        - **Distribution Patterns:**
+                            - Frequency and volume of food distributions.
+                        - **Demand Fluctuations:**
+                            - Changes in the number of clients served over time.
+                        - **Local Socio-Economic Indicators:**
+                            - Unemployment rates, housing costs, access to transportation.
         
-          - **Federated Learning:**
-              - **Local Model Training:**
-                  - Each food bank trains a local AI model on its data to:
-                      - Predict future demand for food assistance.
-                      - Identify emerging trends in food insecurity.
-                      - Optimize inventory management and distribution schedules.
-              - **Model Update Sharing:**
-                  - Encrypted Updates:
-                      - Food banks share encrypted model updates (not raw data) with a central aggregator or via peer-to-peer networks.
-                  - Privacy Preservation Techniques:
-                      - Differential Privacy:
-                          - Add noise to the updates to prevent the re-identification of individuals.
-                      - Secure Multi-Party Computation (SMPC) or Homomorphic Encryption:
-                          - Ensure that shared updates do not leak sensitive information during aggregation.
+            - **Federated Learning:**
+                - **Local Model Training:**
+                    - Each food bank trains a local AI model on its data to:
+                        - Predict future demand for food assistance.
+                        - Identify emerging trends in food insecurity.
+                        - Optimize inventory management and distribution schedules.
+                - **Model Update Sharing:**
+                    - **Encrypted Updates:**
+                        - Food banks share encrypted model updates (not raw data) with a central aggregator or via peer-to-peer networks.
+                    - **Privacy Preservation Techniques:**
+                        - **Differential Privacy:**
+                            - Add noise to the updates to prevent the re-identification of individuals.
+                        - **Secure Multi-Party Computation (SMPC) or Homomorphic Encryption:**
+                            - Ensure that shared updates do not leak sensitive information during aggregation.
         
-          - **Creation of an Open-Source Model:**
-              - **Global Model Aggregation:**
-                  - Encrypted updates are aggregated to form a global AI model that benefits from diverse data inputs.
-              - **Open-Source Release:**
-                  - The global model is released as an open-source tool accessible to:
-                      - Policymakers.
-                      - Researchers.
-                      - Other organizations involved in food security.
+            - **Creation of an Open-Source Model:**
+                - **Global Model Aggregation:**
+                    - Encrypted updates are aggregated to form a global AI model that benefits from diverse data inputs.
+                - **Open-Source Release:**
+                    - The global model is released as an open-source tool accessible to:
+                        - Policymakers.
+                        - Researchers.
+                        - Other organizations involved in food security.
         
-          - **Incentive Mechanisms:**
-              - **Rewards for Participation:**
-                  - Food banks can receive benefits for contributing to the global model.
-                  - Possible rewards may include:
-                      - Discounts from suppliers.
-                      - Access to advanced analytics.
-                      - Grants or additional funding.
-              - **Smart Contracts:**
-                  - Utilize smart contracts to automate reward distribution, ensuring transparency and trust.
+            - **Incentive Mechanisms:**
+                - **Rewards for Participation:**
+                    - Food banks can receive benefits for contributing to the global model.
+                    - Possible rewards may include:
+                        - Discounts from suppliers.
+                        - Access to advanced analytics.
+                        - Grants or additional funding.
+                - **Smart Contracts:**
+                    - Utilize smart contracts to automate reward distribution, ensuring transparency and trust.
         
-          - **Integration with Existing Systems:**
-              - **Compatibility:**
-                  - Ensure the platform integrates with existing inventory management and client tracking systems used by food banks.
-              - **User Interfaces:**
-                  - Develop intuitive dashboards for food banks to:
-                      - Visualize predictions.
-                      - Manage inventory.
-                      - Plan distributions effectively.
+            - **Integration with Existing Systems:**
+                - **Compatibility:**
+                    - Ensure the platform integrates with existing inventory management and client tracking systems used by food banks.
+                - **User Interfaces:**
+                    - Develop intuitive dashboards for food banks to:
+                        - Visualize predictions.
+                        - Manage inventory.
+                        - Plan distributions effectively.
         
-          - **Application:**
-              - **Predictive Analytics:**
-                  - The global AI model provides insights into:
-                      - Anticipated increases or decreases in food demand.
-                      - Geographic areas with rising food insecurity.
-              - **Resource Optimization:**
-                  - Helps food banks:
-                      - Adjust procurement strategies.
-                      - Reduce food waste.
-                      - Ensure supply meets community needs.
-              - **Informing Policy:**
-                  - Policymakers and aid organizations use the model to:
-                      - Allocate resources more effectively.
-                      - Develop targeted programs.
-                      - Monitor the impact of interventions.
+            - **Application:**
+                - **Predictive Analytics:**
+                    - The global AI model provides insights into:
+                        - Anticipated increases or decreases in food demand.
+                        - Geographic areas with rising food insecurity.
+                - **Resource Optimization:**
+                    - Helps food banks:
+                        - Adjust procurement strategies.
+                        - Reduce food waste.
+                        - Ensure supply meets community needs.
+                - **Informing Policy:**
+                    - Policymakers and aid organizations use the model to:
+                        - Allocate resources more effectively.
+                        - Develop targeted programs.
+                        - Monitor the impact of interventions.
     
-      - 📌 See [GitHub Repository for Detailed Examples and Use Cases](<Your-GitHub-Link-Here>)
+        - 📌 See [GitHub Repository for Detailed Examples and Use Cases](<Your-GitHub-Link-Here>)
+      </div>
     </details>
 
 ## 🌍 Community Building
