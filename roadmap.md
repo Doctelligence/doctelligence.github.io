@@ -145,10 +145,15 @@ description: Roadmap
       </div>
     </details>
 
+## 📄 Whitepaper and Technical Specification
+- **📖 Refine whitepaper:**
+    - Design with fine-tooth comb input from specialist engineers.
+- **📝 Develop technical specifications:**
+    - For the Decentralized Intelligence Network (DIN), encompassing a federated learning protocol testbed and reward mechanism. Specifically, this will form the decentralized AI network, with a user interface (UI) that serves as an entry point for users to interact with the network, participate in training, and contribute data effectively, whilst receiving rewards.
+
 ## 🌍 Community Building
 - 🌐 Launch website and social media channels.
 - 🗣️ Engage with AI and blockchain communities to gather feedback.
-
 ---
 
 ## 💰 Seed Funding
