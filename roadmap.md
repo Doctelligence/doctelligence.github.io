@@ -128,9 +128,6 @@ description: Roadmap
 ## 🚀 Beta Release  
 - Launch public beta and onboard early adopters.
 
-## 💰 Series A Funding  
-- Secure Series A funding to expand the DIN ecosystem.
-
 ## 🗳️ Governance Framework  
 - Establish decentralized governance and transparent decision-making mechanisms.
 
@@ -155,7 +152,7 @@ description: Roadmap
 - Establish grants and incubation programs.
 
 ## 💰 Subsequent Funding Rounds  
-- Explore Series B funding for scaling efforts.  
+- Explore Series A funding for scaling efforts.  
 
 ## 🌐 Network Growth and Revenue Model  
 - Generate revenue through network fees and ensure sustainability.
