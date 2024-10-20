@@ -165,7 +165,7 @@ description: Roadmap
   
 ## 💰 Seed Funding
 - **Aim for Seed Round:**
-    - Target raising anywhere from $1-3 million to support the development of deep-tech technologies and infrastructure for Doctelligence.
+    - Target raising anywhere from >$1 million to support the development of deep-tech technologies and infrastructure for Doctelligence.
     - Focus on attracting investors who align with our vision for innovation and sustainability in decentralized intelligence.
 --- 
 
