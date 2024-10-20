@@ -27,7 +27,7 @@ description: Roadmap
 
 - **🔗 Develop and implement the DIN protocol:**
     - Create a decentralized framework that enables multiple participants to collaboratively train machine learning models while ensuring data privacy and sovereignty. This involves:
-    - **Key Components of the DIN Protocol:**
+    - 🔑 **Key Components of the DIN Protocol:**
         - **Decentralized Data Handling:** 
             - Enable participants to contribute model updates without sharing their raw data, ensuring data remains within their personal data stores (PDS).
         - **Federated Model Training:**
@@ -37,7 +37,7 @@ description: Roadmap
         - **Incentive Mechanisms:**
             - Implement a reward system to incentivize participation and data contributions, ensuring a sustainable and engaging network.
 
-- **Example Use Case: Environmental Monitoring**
+- 🌳 **Example Use Case: Environmental Monitoring**
     - Create a decentralized federated learning platform for local air quality monitoring stations to collaboratively train an AI model that predicts air pollution levels across different regions without sharing raw sensor data. This system aims to provide real-time, privacy-preserving insights that inform policymakers, researchers, and the public, aiding in pollution management and environmental health initiatives.
 
     <details>
@@ -62,7 +62,7 @@ description: Roadmap
       </div>
     </details>
 
-- **Example Use Case: Enhancing Food Insecurity Prediction with Food Bank Data**
+- 🍏 **Example Use Case: Enhancing Food Insecurity Prediction with Food Bank Data**
     - Develop a decentralized federated learning platform that enables food banks to collaboratively train an AI model to predict food insecurity trends and optimize food distribution, without sharing sensitive client data. The goal is to create an open-source model that informs policymakers, aid organizations, and communities about areas of need, improving resource allocation and reducing hunger.
 
     <details>
