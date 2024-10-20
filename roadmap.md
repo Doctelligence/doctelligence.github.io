@@ -99,7 +99,7 @@ description: Roadmap
     - Reward participants using non-native stablecoin assets for stability and transparency.
 
 ## 💰 Seed Funding  
-- Target $1 million+ to develop deep-tech infrastructure for Doctelligence.  
+- Target $1 million+ to develop deep-tech infrastructure for Doctelligence labs.  
 - Focus on attracting mission-aligned investors.
 
 ---
