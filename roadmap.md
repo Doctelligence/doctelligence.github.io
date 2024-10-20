@@ -27,7 +27,9 @@ description: Roadmap
 
 - **🔗 Develop and implement the DIN protocol:**
     - Create a decentralized framework that enables multiple participants to collaboratively train machine learning models while ensuring data privacy and sovereignty. This involves:
+      
     - 🔑 **Key Components of the DIN Protocol:**
+      
         - **Decentralized Data Handling:** 
             - Enable participants to contribute model updates without sharing their raw data, ensuring data remains within their personal data stores (PDS).
         - **Federated Model Training:**
