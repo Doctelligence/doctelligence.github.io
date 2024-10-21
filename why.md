@@ -20,7 +20,6 @@ As we navigate the transformative landscape of data ownership and decentralized 
 These questions help clarify the motivations and implications of adopting the DIN mainnet, paving the way for a deeper understanding of its potential.
 
 ---
-## **When Would Participants Own or Control Data?**
 
 ### 1. **Sovereign Data Models and Open Data Initiatives**
 - **How It Works:**  
