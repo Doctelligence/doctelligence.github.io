@@ -1,5 +1,5 @@
 ---
-title: The Transformative Nature of DIN
+title: Why DIN Matters
 layout: page
 permalink: "/why/"
 description: Adoption of DIN Mainnet
@@ -11,9 +11,9 @@ The following scenarios should be viewed through this transformative lens. Altho
 
 ---
 
-## Why DIN Mainnet Matters
+## The Transformative Nature of DIN
 
-Understanding the significance of the DIN mainnet involves recognizing how its unique capabilities—such as on-device training, smaller AI models, decentralized control, and rewards—align with the evolving needs of various user groups. Below, we explore enhanced examples and rationales for embracing the DIN mainnet.
+Understanding the significance of the DIN involves recognizing how its unique capabilities—such as on-device training, smaller AI models, decentralized control, and rewards—align with the evolving needs of various user groups. Below, we explore enhanced examples and rationales for embracing the DIN mainnet.
 
 As we navigate the transformative landscape of data ownership and decentralized collaboration, two critical questions often arise: a) **Why and When Would Participants Own or Control Data?** b) **Why Would Participants Utilise DIN Mainnett Despite Corporate Data Silos?**
 
