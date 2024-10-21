@@ -86,7 +86,7 @@ These questions help clarify the motivations and implications of adopting the DI
   - Promotes privacy-preserving collaboration, enabling businesses to innovate while respecting user rights and preferences.
   - Facilitates access to advanced AI capabilities, empowering smaller players to thrive in a competitive landscape.
 
-## **Why Use DIN and Who Will Drive Its Growth?**  
+## **Why Use DIN?**  
 
 DIN offers a decentralized protocol that fosters collaboration, innovation, and privacy-preserving AI across industries. It empowers participants to take control of their data and unlock value through a scalable, open ecosystem.  
 
