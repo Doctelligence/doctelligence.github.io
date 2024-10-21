@@ -27,12 +27,10 @@ These questions help clarify the motivations and implications of adopting the DI
   Individuals use Personal Data Stores (PDS) to manage their data, such as health records and IoT logs. This allows for full control over sharing and monetization, enabling seamless partnerships with industry players. Participants contribute data from personal sensors to PDS, allowing decentralized AI models to leverage their input for impactful predictions while enhancing industry applications.
 
 - **Examples:**  
-  - Health-conscious users monetize anonymized medical records for research collaborations.
-  - Residents contribute IoT data for urban planning, benefiting both the community and local businesses.
-  - EV owners share driving behavior data to enhance algorithms, creating value for manufacturers and users.
-  - Students provide datasets for AI development in exchange for educational tools and industry insights.
-  - Communities deploy sensors for pollution forecasting, with businesses utilizing this data for compliance and sustainability efforts.
-  - Citizen scientists collaborate on species identification models, providing insights valuable to environmental organizations.
+- Health-conscious users monetize anonymized medical records for research collaborations.
+- Residents contribute IoT data for urban planning, benefiting both the community and local businesses.
+- EV owners share driving behavior data to enhance algorithms, creating value for manufacturers and users.
+- Communities deploy sensors for pollution forecasting, with businesses utilizing this data for compliance and sustainability efforts.
 
 - **Benefits:**  
   - Traditional models faced challenges due to misaligned incentives; DIN simplifies participation in federated learning with a user-friendly interface, enabling businesses to tap into valuable user-generated data.
