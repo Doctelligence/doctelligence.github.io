@@ -7,9 +7,9 @@ intro_image_hide_on_mobile: true
 
 ## Our Vision
 
-At Doctelligence, we're pioneering a new era of AI development—one that is open, decentralized, and respects individual data sovereignty. We envision a world where artificial intelligence evolves through the contributions of individuals who retain ownership of their data while connecting to a larger collective network.
+DIN presents a novel framework that addresses critical challenges in AI development while upholding data sovereignty. In a landscape where AI evolves rapidly, the paradox of abundant yet inaccessible data—due to fragmentation and siloing—restricts both individual control over data and the full potential of AI advancements. DIN offers a solution through its decentralized architecture, enabling scalable AI development while ensuring individuals retain control of their own data.
 
-We believe the future lies in **individual-first ecosystems**, where participants opt into decentralized networks through their personal data stores. By integrating blockchain, federated learning, and cryptographic rewards, we align individual empowerment with collective progress:  
+We do this by:
 
 - **Ensuring data sovereignty** by keeping all data under individual control within personal data stores.  
 - **Enabling decentralized AI training** by sharing encrypted model updates rather than raw data.  
@@ -17,7 +17,9 @@ We believe the future lies in **individual-first ecosystems**, where participant
 
 ## Why It Matters
 
-DIN presents a novel framework that addresses critical challenges in AI development while upholding data sovereignty. In a landscape where AI evolves rapidly, the paradox of abundant yet inaccessible data—due to fragmentation and siloing—restricts both individual control over data and the full potential of AI advancements. DIN offers a solution through its decentralized architecture, enabling scalable AI development while ensuring individuals retain control of their own data.
+At Doctelligence, we're pioneering a new era of AI development—one that is open, decentralized, and respects individual data sovereignty. We envision a world where artificial intelligence evolves through the contributions of individuals who retain ownership of their data while connecting to a larger collective network.
+
+We believe the future lies in **individual-first ecosystems**, where participants opt into decentralized networks through their personal data stores. By integrating blockchain, federated learning, and cryptographic rewards, we align individual empowerment with collective progress. 
 
 ## Join Us
 
