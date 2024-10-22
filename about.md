@@ -7,7 +7,7 @@ intro_image_hide_on_mobile: true
 
 ## Our Vision
 
-DIN presents a novel framework that addresses critical challenges in AI development while upholding data sovereignty. In a landscape where AI evolves rapidly, the paradox of abundant yet inaccessible data—due to fragmentation and siloing—restricts both individual control over data and the full potential of AI advancements. DIN offers a solution through its decentralized architecture, enabling scalable AI development while ensuring individuals retain control of their own data.
+Doctelligence, born from the project DIN, presents a novel framework that addresses critical challenges in AI development while upholding data sovereignty. In a landscape where AI evolves rapidly, the paradox of abundant yet inaccessible data—resulting from fragmentation and siloing—restricts both individual control over data and the full potential of AI advancements. DIN offers a solution through its decentralized architecture, enabling scalable AI development while ensuring that individuals retain control over their own data.
 
 We do this by:
 
