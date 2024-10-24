@@ -258,7 +258,7 @@ description: Roadmap
 - Establish grants and incubation programs for ecosystem projects.
 
 ## 💰 Subsequent Funding Rounds  
-- Explore opportunities for **Series B and beyond** to support ongoing development and scaling efforts.  
+- Explore opportunities for **Series A and beyond** to support ongoing development and scaling efforts.  
 - Focus on attracting **investors committed to the growth of decentralized intelligence and AI innovation**.
 
 ---
