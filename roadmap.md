@@ -12,8 +12,8 @@ description: Roadmap
     - Cryptography and privacy-preserving tech  
  
 ## 📄 Whitepaper and Technical Specification
-    - Design with fine-tooth comb input from specialist engineers.
-    - Develop technical specifications
+- Design with fine-tooth comb input from specialist engineers.
+- Develop technical specifications
       
 ## 🧠 Establish an Ecosystem of Support: 
 - Collaborate with [Cambridge Frontiers Lab](https://www.frontiers.cam.ac.uk/) to leverage their expertise and network, enhancing visibility and strategic alignment.  
