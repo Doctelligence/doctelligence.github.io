@@ -158,15 +158,13 @@ description: Roadmap
 
 ## 💰 Seed Funding
 - **Aim for Seed Round:**
-    - Doctelligence is focused on traditional funding sources to provide stable capital for technology development.
     - Target raising anywhere from >$1 million to support the development of deep-tech technologies and infrastructure for Doctelligence.
     - Focus on attracting investors who align with our vision for innovation and sustainability in decentralized intelligence.
 
 ## 🔄 Token Launch
 - **Token Launch Considerations:**
     - We are open to a token launch but emphasize that it should enhance our vision and demonstrate clear utility within the network, rather than being essential for its operation.
-    - Native tokens are speculative assets and subject to volatility. The DIN mainnet will reward participants with non-native stablecoin assets to ensure effective and stable reimbursements for those contributing data for training.
-    - As the project evolves, we will explore circular token economies and additional use cases.
+    - Native tokens are speculative assets and subject to volatility; as the project evolves, we will explore circular token economies and additional use cases.
   
 --- 
 
