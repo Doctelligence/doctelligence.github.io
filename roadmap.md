@@ -171,19 +171,24 @@ description: Roadmap
 
 # 🔧 Phase 2: Alpha Development and Testing (12-18 months)
 
-## 📊 Federated Learning Protocol Testbed Enhancements
-- Optimize the federated learning protocol for increased efficiency, including techniques such as adaptive learning rates and model compression to reduce communication overhead.
-- Integrate seamlessly with Ethereum and other relevant blockchain ecosystems for enhanced interoperability.
-- Enhance privacy-preserving features, implementing differential privacy and secure multiparty computation to protect user data during training.
-- Market the project to attract and recruit evaluators for early testing, simulating their involvement to gather insights on network performance and user experience.
+## 🔗 Blockchain Testbed and System Enhancements  
+- Strengthen the blockchain architecture to ensure interoperability with federated learning protocols.  
+- Finalize smart contracts, system design, and the blockchain codebase to be ready for seamless integration with federated learning frameworks.  
+- Prepare the infrastructure for testing DIN (Decentralized Intelligence Network) components, ensuring the system is scalable, efficient, and prepared for alpha testing.
 
-## 🔬 Alpha Testing
-- Conduct closed alpha tests with a small group of participants.
-- Gather and incorporate user feedback.
-  
-## 🤝 Partnerships
-- Establish partnerships with data providers and AI companies to enhance data availability and quality.
-- Collaborate with academic institutions for ongoing research and development.
+## 📊 Federated Learning Protocol Testbed Enhancements  
+- Optimize select federated learning protocols for increased efficiency, using techniques like adaptive learning rates and model compression to minimize communication overhead.  
+- Integrate Ethereum and other blockchain ecosystems to enhance interoperability with decentralized networks.  
+- Enhance privacy-preserving features, incorporating differential privacy and secure multiparty computation to protect data during training.  
+- Promote the project to attract and recruit evaluators for early testing, simulating involvement to gather insights on network performance and user experience.  
+
+## 🔬 Alpha Testing  
+- Conduct closed alpha tests with a small group of participants to validate functionality.  
+- Collect user feedback to refine and improve the platform before broader release.  
+
+## 🤝 Partnerships  
+- Forge partnerships with data providers and AI companies to increase the availability and quality of training data.  
+- Collaborate with academic institutions to support ongoing research and development, ensuring the platform stays on the cutting edge of decentralized AI.
 
 ---
 
