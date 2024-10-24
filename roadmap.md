@@ -162,10 +162,11 @@ description: Roadmap
     - Focus on attracting investors who align with our vision for innovation and sustainability in decentralized intelligence.
 
 ## 🔄 Token Launch
-- **Token Launch Considerations:**
-    - We are open to a token launch but emphasize that it should enhance our vision and demonstrate clear utility within the network, rather than being essential for its operation.
-    - Native tokens are speculative assets and subject to volatility; as the project evolves, we will explore circular token economies and additional use cases.
-  
+### Key Considerations  
+  - While we are open to a token launch, it will only be pursued if it enhances the network’s vision and provides clear utility, rather than being essential for operation.  
+  - We recognize that native tokens can be volatile and speculative assets. 
+  - As the project evolves, we aim to explore circular token economies and develop additional use cases to ensure sustainable value.
+
 --- 
 
 # 🔧 Phase 2: Alpha Development and Testing (12-18 months)
