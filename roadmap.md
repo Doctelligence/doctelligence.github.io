@@ -21,6 +21,11 @@ description: Roadmap
     - Aim to raise between $50k to $100k to support initial development and operational costs as a lab entity.
     - Incorporate as a formal entity to facilitate fundraising, partnership opportunities, and structured governance.
 
+## 📄 Whitepaper and Technical Specification
+- **📖 Refine whitepaper:**
+    - Design with fine-tooth comb input from specialist engineers.
+    - Develop technical specifications
+ 
 ## 🧪 Prototype Development
 - **🔬 Establish a small-scale testbed:**
     - Use demonstration use cases to validate the DIN protocol, highlighting its practical applications and effectiveness within a controlled environment.
@@ -147,17 +152,16 @@ description: Roadmap
       </div>
     </details>
 
-## 📄 Whitepaper and Technical Specification
-- **📖 Refine whitepaper:**
-    - Design with fine-tooth comb input from specialist engineers.
-- **📝 Develop technical specifications:**
-    - For the Decentralized Intelligence Network (DIN), encompassing a federated learning protocol testbed and reward mechanism. Specifically, this will form the decentralized AI network, with a user interface (UI) that serves as an entry point for users to interact with the network, participate in training, and contribute data effectively, whilst receiving rewards.
-
 ## 🌍 Community Building
 - Launch website and social media channels.
 - Engage with AI and blockchain communities to gather feedback.
   
 ---
+
+## 💰 Seed Funding
+- **Aim for Seed Round:**
+    - Target raising anywhere from >$1 million to support the development of deep-tech technologies and infrastructure for Doctelligence.
+    - Focus on attracting investors who align with our vision for innovation and sustainability in decentralized intelligence.
 
 ## 🔄 Token Launch
 - **Token Launch Considerations:**
@@ -166,10 +170,6 @@ description: Roadmap
     - Native tokens are speculative assets and subject to volatility. The DIN mainnet will reward participants with non-native stablecoin assets to ensure effective and stable reimbursements for those contributing data for training.
     - As the project evolves, we will explore circular token economies and additional use cases.
   
-## 💰 Seed Funding
-- **Aim for Seed Round:**
-    - Target raising anywhere from >$1 million to support the development of deep-tech technologies and infrastructure for Doctelligence.
-    - Focus on attracting investors who align with our vision for innovation and sustainability in decentralized intelligence.
 --- 
 
 # 🔧 Phase 2: Alpha Development and Testing (12-18 months)
