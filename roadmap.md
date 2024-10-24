@@ -184,11 +184,11 @@ description: Roadmap
 
 ## 🔬 Alpha Testing  
 - Conduct closed alpha tests with a small group of participants to validate functionality.  
-- Collect user feedback to refine and improve the platform before broader release.  
-
+- Collect user feedback to refine and improve the platform before broader release.
+  
 ## 🤝 Partnerships  
-- Forge partnerships with data providers and AI companies to increase the availability and quality of training data.  
-- Collaborate with academic institutions to support ongoing research and development, ensuring the platform stays on the cutting edge of decentralized AI.
+- Forge partnerships with **federated learning companies** and **open-source communities** to enhance the testbed by integrating their protocols and refining the codebase.  
+- Collaborate with **data providers** and **AI companies** to increase the availability and quality of training data.  
 
 ---
 
