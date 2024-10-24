@@ -10,7 +10,10 @@ description: Roadmap
 - **🔧 Recruit early founders and advisors:**
     - Blockchain, AI/ML, and federated learning  
     - Cryptography and privacy-preserving tech  
-    - Product design, governance, and open-source scaling
+ 
+## 📄 Whitepaper and Technical Specification
+    - Design with fine-tooth comb input from specialist engineers.
+    - Develop technical specifications
       
 ## 🧠 Establish an Ecosystem of Support: 
 - Collaborate with [Cambridge Frontiers Lab](https://www.frontiers.cam.ac.uk/) to leverage their expertise and network, enhancing visibility and strategic alignment.  
@@ -20,11 +23,6 @@ description: Roadmap
 - **💰 Raise Pre-seed Funding:**
     - Aim to raise between $50k to $100k to support initial development and operational costs as a lab entity.
     - Incorporate as a formal entity to facilitate fundraising, partnership opportunities, and structured governance.
-
-## 📄 Whitepaper and Technical Specification
-- **📖 Refine whitepaper:**
-    - Design with fine-tooth comb input from specialist engineers.
-    - Develop technical specifications
  
 ## 🧪 Prototype Development
 - **🔬 Establish a small-scale testbed:**
