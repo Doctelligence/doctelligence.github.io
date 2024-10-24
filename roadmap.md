@@ -253,13 +253,13 @@ description: Roadmap
 - Support projects addressing global challenges using decentralized AI.
 - Explore circular token economy applications and launch network-specific applications.
 
-## 💰 Subsequent Funding Rounds  
-- Explore opportunities for **Series B and beyond** to support ongoing development and scaling efforts.  
-- Focus on attracting **investors committed to the growth of decentralized intelligence and AI innovation**.
-
 ## 👥 Community Engagement
 - Transition to community-based governance (non-coin based).
 - Establish grants and incubation programs for ecosystem projects.
+
+## 💰 Subsequent Funding Rounds  
+- Explore opportunities for **Series B and beyond** to support ongoing development and scaling efforts.  
+- Focus on attracting **investors committed to the growth of decentralized intelligence and AI innovation**.
 
 ---
 
