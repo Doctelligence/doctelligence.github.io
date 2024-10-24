@@ -196,7 +196,7 @@ description: Roadmap
 
 ## ⚙️ Testbed and Protocol Refinement  
 - **Enhance and validate testbeds** with integrated federated learning (FL) protocols across key blockchain environments.  
-- Establish **dedicated FL channels, data streams, and on-chain governance flows** to support seamless model training, testing, and auditing.  
+- Establish **dedicated FL channels, data streams, and on-chain flows** to support seamless model training, testing, and auditing.  
 - Ensure **interoperability across multi-chain networks**, enabling smooth integration with public and private blockchains.  
 - Collaborate with partners to **deploy testbeds for real-world use cases**, aligning development with DIN’s vision of sovereign AI and decentralized participation.  
 - Launch **simulation environments** to pre-test deployments and mitigate risks before real-world operations.  
@@ -211,24 +211,22 @@ description: Roadmap
 - Launch the **public beta of DIN**, showcasing live protocols, enhanced blockchain infrastructure, and privacy-preserving capabilities.  
 - Onboard **early adopters, developers, and contributors** to foster community participation and gather meaningful feedback for improvements.  
 - Promote adoption across **key blockchain and FL networks**, ensuring the network's scalability and usability.  
-- Integrate **reward mechanisms for early participants**, binding decentralized contributions to the growth of the ecosystem.
 
 ## 🗳️ Decentralized Governance and Community Framework  
 - Implement a **progressive decentralized governance model** to empower stakeholders in decision-making.  
 - Develop transparent, **non-token-based governance processes** for protocol upgrades and community-driven initiatives.  
 - Introduce **voting mechanisms, community proposals, and protocol stewardship programs** to ensure open and inclusive governance as the network matures.  
-- Align governance processes with **data sovereignty principles**, ensuring user control over personal data remains central to the ecosystem.
+- Align governance processes with **data sovereignty principles**, ensuring user control over personal data remains central to the ecosystem.  
+- Establish **bounty and grants programs** to incentivize community contributions and foster engagement, allowing developers and users to support ongoing initiatives and innovations.  
 
-## 🌐 Ecosystem Growth and Integration  
+## 🌐 Ecosystem Growth, Integration, and Continuous Optimization  
 - Forge partnerships with **AI developers, federated learning companies, and open-source communities** to extend the network’s capabilities.  
 - Collaborate with **blockchain ecosystems, AI marketplaces, and sovereign data providers** to increase accessibility and functionality.  
 - Deploy **refined testbeds and cross-chain integrations** across multiple networks, ensuring scalability and interoperability within the DIN ecosystem.  
-- Launch **new decentralized applications and AI services**, demonstrating real-world utility and impact in areas such as healthcare, finance, and governance.
-
-## 📈 Continuous Network Optimization and Expansion  
+- Launch **new decentralized applications and AI services**, demonstrating real-world utility and impact in areas such as healthcare, finance, and governance.  
 - Establish ongoing **performance monitoring and optimization pipelines** to ensure the system evolves efficiently with network growth.  
 - Explore **future upgrades with advanced privacy-preserving technologies** like ZKPs and multi-party computation.  
-- Prepare the network for **scaling beyond beta** by planning phased improvements, including enhanced reward systems and governance structures.
+- Prepare the network for **scaling beyond beta** by planning phased improvements, including enhanced reward systems and governance structures.  
 
 ---
 
