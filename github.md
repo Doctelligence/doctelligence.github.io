@@ -1,12 +1,12 @@
 ---
 title: GitHub
 layout: page
-description: Explore our GitHub profile for the latest updates and insights.
+description: Discover our GitHub profile for updates and insights.
 intro_image_hide_on_mobile: true
 ---
 
 ### Explore Our GitHub Profile
 
-Visit our GitHub profile to explore our open-source repository, where you can engage with our projects and showcase your abilities. We encourage collaboration and invite you to get involved, as we believe in fostering a culture of openness, experimentation, and inclusivity.
+Check out our GitHub profile to engage with our open-source projects. We welcome collaboration and value a culture of openness and inclusivity.
 
-Stay updated with our latest projects and contributions: [Doctelligence GitHub](https://github.com/Doctelligence).
+Stay updated with our latest contributions: [Doctelligence GitHub](https://github.com/Doctelligence).
