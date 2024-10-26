@@ -10,5 +10,5 @@ description: White Paper
 
 ### **Who Will Be Part of the DIN Mainnet Ecosystem?**
 
-DIN introduces unique capabilities—on-device training, streamlined AI models, decentralized control, and a rewards system—that attract a wide array of participants. From individuals and researchers to SMEs and IoT ecosystems, DIN creates fresh opportunities for decentralized AI and data ownership.** [Discover potential participants here.](/why/)
+DIN enables AI training on decentralized data without the data leaving the stores themselves, while offering rewards to participants. **[Explore participants here.](/why/)**
 
