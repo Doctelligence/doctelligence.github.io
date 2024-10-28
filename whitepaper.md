@@ -8,7 +8,4 @@ description: White Paper
 
 ## **Explore our White Paper here:** [Download](https://github.com/Doctelligence/White-Paper/blob/main/Decentralized%20Intelligence%20Network%20(DIN).pdf)
 
-### **Who Will Be Part of the DIN Mainnet Ecosystem?**
-
-DIN enables AI training on decentralized data without the data leaving the stores themselves, while offering rewards to participants. **[Explore participants here.](/why/)**
 
