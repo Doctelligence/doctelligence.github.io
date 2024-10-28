@@ -4,21 +4,21 @@ layout: page
 description: Learn more about Doctelligence and our mission.  
 intro_image_hide_on_mobile: true  
 ---
-
 ## Our Vision  
 
-Doctelligence, built on the DIN project, offers a decentralized framework for AI development that empowers individuals to manage and leverage their own data. Our approach ensures that people can participate directly in AI networks, contributing securely while maintaining control over their information.  
+Doctelligence, part of the DIN project, offers a decentralized framework for AI development. We empower individuals to manage and use their own data securely.  
 
 We focus on:  
-- **User-owned data management**: Individuals control and manage their data directly, without third-party intermediaries.  
-- **Decentralized AI training**: Share encrypted model updates for AI development, ensuring privacy throughout.  
-- **Earn rewards**: Participants receive blockchain-powered incentives for contributing data and model updates.  
+- **User-owned data**: Individuals control their data without intermediaries.  
+- **Decentralized AI training**: Share encrypted updates for privacy in AI development.  
+- **Earn rewards**: Participants receive blockchain incentives for their contributions.  
 
-## Empowering AI through Decentralized Data with DIN
+## Empowering AI with Decentralized Data  
 
-We are advancing a future where decentralized data empowers users and eliminates the need for third-party intermediaries. This model enables individuals to monetize their data while giving AI developers access to a vast and diverse dataset, all while the data remains decentralized and does not leave the store in which it is kept. As more users join the network, the potential for AI innovation grows, creating a win-win scenario: users benefit directly from their contributions, and developers gain limitless opportunities to enhance their AI capabilities.
+We envision a future where decentralized data empowers users and removes the need for third-party intermediaries. Individuals can monetize their data while AI developers access a diverse dataset—all while keeping the data decentralized. As more users join, AI innovation grows, benefiting both users and developers.  
+
 ## Join Us  
 
-If you are a data scientist, blockchain enthusiast, or passionate about decentralized technologies, Doctelligence welcomes you. Together, we’re building a more open and fair AI future—one where innovation and privacy go hand in hand, all managed directly by the people who participate.
+If you’re a data scientist, blockchain enthusiast, or passionate about decentralization, Doctelligence welcomes you. Together, we’re creating an open and fair AI future where innovation and privacy coexist.  
 
-Ready to learn more or get involved? [Contact us](https://doctelligence.github.io/contact/) or explore our latest updates.  
+Ready to learn more or get involved? [Contact us](https://doctelligence.github.io/contact/) or check our latest updates.
