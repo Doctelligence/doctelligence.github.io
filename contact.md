@@ -6,4 +6,4 @@ description: Contact
 
 **Location:**  
 
-**Toronto & UK.**
+**Toronto & UK**
