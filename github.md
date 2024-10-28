@@ -7,4 +7,4 @@ intro_image_hide_on_mobile: true
 
 We welcome collaboration and value openness.
 
-Stay updated with our latest contributions: [Doctelligence GitHub](https://github.com/Doctelligence).
+Stay updated with our latest contributions: [Doctelligence](https://github.com/Doctelligence).
