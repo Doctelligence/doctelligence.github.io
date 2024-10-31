@@ -6,16 +6,16 @@ intro_image_hide_on_mobile: true
 ---
 ## Our Vision  
 
-Doctelligence, part of the DIN project, offers a decentralized framework for AI development. We empower individuals to manage and use their own data securely.  
+Doctelligence, born of the DIN vision paper, provides a decentralized framework for AI development. We enable data holders to monetize their information while earning rewards for contributing to AI training.
 
 We focus on:  
-- **User-owned data**: Individuals control their data without intermediaries.  
-- **Decentralized AI training**: Share encrypted updates for privacy in AI development.  
-- **Earn rewards**: Participants receive blockchain incentives for their contributions.  
-
+- **Decentralized Data**: Keeping data secure on-device, without intermediaries.  
+- **Decentralized AI Training**: Sharing only encrypted model updates for AI development.  
+- **Incentivizing Participation**: Data owners earn rewards by opting in.
+  
 ## Empowering AI with Decentralized Data  
 
-We envision a future where decentralized data empowers users and removes the need for third-party intermediaries. Individuals can monetize their data while AI developers access a diverse dataset—all while keeping the data decentralized. As more users join, AI innovation grows, benefiting both users and developers.  
+We envision a future where decentralized data empowers users and removes the need for third-party intermediaries. Data holders can monetize their data while AI developers access a diverse dataset—all while keeping the data decentralized. As more users join, AI innovation grows, benefiting both users and developers.  
 
 ## Join Us  
 
