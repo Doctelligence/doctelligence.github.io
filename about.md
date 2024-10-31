@@ -19,6 +19,6 @@ We envision a future where decentralized data empowers users and removes the nee
 
 ## Join Us  
 
-If you’re a data scientist, blockchain enthusiast, or passionate about decentralization, Doctelligence welcomes you. Together, we’re creating an open and fair AI future where innovation and privacy coexist.  
+If you’re a data scientist, blockchain enthusiast, or passionate about decentralization, Doctelligence welcomes you. Together, we’re creating an open and decentralized AI future where innovation and privacy coexist.  
 
 Ready to learn more or get involved? [Contact us](https://doctelligence.github.io/contact/) or check our latest updates.
