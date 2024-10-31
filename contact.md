@@ -4,6 +4,4 @@ layout: contact
 description: Contact
 ---
 
-**Location:**  
-
-**Toronto & UK**
+**Location:**  **Earth**
