@@ -1,7 +1,7 @@
 [
   {
     "title": "Data Sovereignty",
-    "description": "Utilize decentralized data stores to enhance security and privacy.",
+    "description": "Utilize decentralized data to enhance security and privacy.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -10,7 +10,7 @@
   },
   {
     "title": "Decentralized AI",
-    "description": "Engage in AI training by sharing only model updates, safeguarding data.",
+    "description": "Train AI by sharing only model updates, safeguarding data.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
