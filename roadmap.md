@@ -4,9 +4,7 @@ layout: page
 description: Roadmap
 ---
 
-# 🚀 Roadmap Overview
-
-This roadmap outlines the strategic phases for developing the Decentralized Intelligence Network (DIN), focusing on building a robust decentralized AI ecosystem while ensuring data privacy, security, and community engagement.
+This roadmap outlines the strategic phases for developing the network, focusing on building a robust decentralized AI ecosystem while ensuring data privacy, security, and community engagement.
 
 ---
 
