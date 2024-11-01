@@ -11,7 +11,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 # 📅 Phase 1: Foundation and Proof of Concept (6-12 months)
 
 ## 👥 Team Building
-- **🔧 Recruit Key Founders and Advisors:**
+- **Recruit Key Founders and Advisors:**
     - Expertise in Blockchain, AI/ML, Federated Learning, Cryptography, and Privacy-Preserving Technologies.
 
 ## 📄 Whitepaper and Technical Specification
@@ -22,15 +22,15 @@ This roadmap outlines the strategic phases for developing the network, focusing 
   - Partner with [Cambridge Frontiers Lab](https://www.frontiers.cam.ac.uk/) for expertise and visibility.
   - Engage with industry experts to guide project development.
 
-- **💰 Pre-seed Funding:**
+- **Pre-seed Funding:**
   - Target $50k to $100k to support initial operations.
   - Incorporate as a formal entity for fundraising and governance.
 
 ## 🧪 Prototype Development
-- **🔬 Small-Scale Testbed:**
+- **Small-Scale Testbed:**
   - Validate the DIN protocol through demonstration use cases.
 
-- **🔗 DIN Protocol Development:**
+- **DIN Protocol Development:**
   - Create a decentralized framework for collaborative AI training that ensures data privacy.
 
     ### 🔑 Key Components of the DIN Protocol:
