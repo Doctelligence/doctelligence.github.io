@@ -8,7 +8,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ---
 
-# 📅 Phase 1: Foundation and Proof of Concept (6-12 months)
+# Phase 1: Foundation and Proof of Concept (6-12 months)
 
 ## 👥 Team Building
 - **Recruit Key Founders and Advisors:**
@@ -72,7 +72,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ---
 
-# 💰 Phase 2: Seed Funding and Token Launch (12-18 months)
+# Phase 2 (Part 1): Seed Funding and Token Launch (12-18 months)
 
 ## 💰 Aim for Seed Round
 - Target over $1 million to develop deep-tech technologies aligned with our vision for decentralized intelligence.
@@ -82,7 +82,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ---
 
-# 🔧 Phase 2: Alpha Development and Testing (12-18 months)
+# Phase 2 (Part 2): Alpha Development and Testing (12-18 months)
 
 ## 🔗 Blockchain Testbed Enhancements
 - Strengthen blockchain architecture for interoperability and finalize smart contracts.
@@ -98,7 +98,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ---
 
-# 🌱 Phase 3: Beta Launch and Ecosystem Growth (18-24 months)
+# Phase 3: Beta Launch and Ecosystem Growth (18-24 months)
 
 ## ⚙️ Testbed and Protocol Refinement
 - Enhance testbeds with integrated federated learning protocols and establish multi-chain interoperability.
@@ -117,7 +117,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ---
 
-# 🌐 Phase 4: Mainnet Launch and Scaling (24-36 months)
+# Phase 4: Mainnet Launch and Scaling (24-36 months)
 
 ## 🖥️ Mainnet Deployment
 - Launch the DIN mainnet with full functionality on Ethereum.
@@ -142,7 +142,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ---
 
-# 🔭 Phase 5: Long-term Vision and Innovation (36+ months)
+# Phase 5: Long-term Vision and Innovation (36+ months)
 
 ## 🌍 Network Adoption
 - Establish regional hubs for growth and compliance with data protection laws.
