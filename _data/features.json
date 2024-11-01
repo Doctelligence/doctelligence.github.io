@@ -1,7 +1,7 @@
 [
   {
     "title": "Data Sovereignty",
-    "description": "Utilize decentralized data to enhance security and privacy.",
+    "description": "Utilize decentralized data to enhance security and privacy, empowering responsible AI development.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -10,7 +10,7 @@
   },
   {
     "title": "Decentralized AI",
-    "description": "Train AI by sharing only model updates, safeguarding data.",
+    "description": "Train AI by sharing only model updates, safeguarding data while fostering innovation.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -19,7 +19,7 @@
   },
   {
     "title": "Fair Rewards",
-    "description": "Earn cryptographic rewards directly, without intermediaries.",
+    "description": "Earn cryptographic rewards directly, without intermediaries, for contributing to AI training.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
