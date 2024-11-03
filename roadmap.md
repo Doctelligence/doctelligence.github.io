@@ -82,7 +82,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ---
 
-# Phase 2 (Part 2): Alpha Development and Testing (12-18 months)
+# Phase 2 (Part 2): Testnet Development and Testing (12-18 months)
 
 ## 🔗 Blockchain Testbed Enhancements
 - Strengthen blockchain architecture for interoperability and finalize smart contracts.
@@ -90,15 +90,15 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 📊 Federated Learning Protocol Optimization
 - Optimize protocols for efficiency, integrating privacy-preserving features.
 
-## 🔬 Alpha Testing
-- Conduct closed alpha tests to validate functionality and collect user feedback.
+## 🔬 Testnet Testing
+- Conduct closed testnet tests to validate functionality and collect user feedback.
 
 ## 🤝 Partnerships
 - Forge collaborations with federated learning companies and data providers.
 
 ---
 
-# Phase 3: Beta Launch and Ecosystem Growth (18-24 months)
+# Phase 3: Mainnet Launch and Ecosystem Growth (18-24 months)
 
 ## ⚙️ Testbed and Protocol Refinement
 - Enhance testbeds with integrated federated learning protocols and establish multi-chain interoperability.
@@ -106,8 +106,8 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 🛠️ Developer Tools and Ecosystem Support
 - Release comprehensive tools, documentation, and host community engagement events.
 
-## 🚀 Public Beta Launch
-- Launch the public beta to showcase enhanced infrastructure and onboard early adopters.
+## 🚀 Mainnet Launch
+- Launch the mainnet to showcase enhanced infrastructure and onboard early adopters.
 
 ## 🗳️ Decentralized Governance
 - Implement governance models that empower community decision-making and maintain data sovereignty.
@@ -117,7 +117,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ---
 
-# Phase 4: Mainnet Launch and Scaling (24-36 months)
+# Phase 4: Mainnet Deployment and Scaling (24-36 months)
 
 ## 🖥️ Mainnet Deployment
 - Launch the DIN mainnet with full functionality on Ethereum.
