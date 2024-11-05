@@ -28,22 +28,17 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ## 🧪 Prototype Development
 
-- **Small-Scale Testbed & DIN Protocol Development:**  
-  - Launch a pilot to validate the DIN protocol, developing a decentralized framework for collaborative AI training that ensures data privacy through real-world use cases.
+- **DIN Protocol & Decentralized Training:**  
+  - Launch a pilot to validate the DIN protocol, enabling privacy-preserving, decentralized AI training. Participants contribute encrypted model updates from local datasets, which are aggregated into a global model. Incentives encourage ongoing participation and collaboration.
 
-- **Decentralized & Federated Training with Incentives:**  
-  - Participants contribute encrypted model updates from their local datasets, enabling privacy-preserving, decentralized training that enhances model accuracy without sharing raw data. The updates are securely aggregated to create a global model. To encourage participation, an incentive mechanism rewards contributors, fostering continuous collaboration and improving model performance.
+- **Example Use Case: Environmental Monitoring:**  
+  - Train an AI model to predict air pollution without sharing raw sensor data.
 
-- **Example Use Cases:**
-  - **Environmental Monitoring:**  
-    - **Decentralized AI Platform:**  
-      - Collaboratively train an AI model to predict air pollution, without sharing raw sensor data.
-
-      <details>
-        <summary>📖 Click to expand for implementation details</summary>
-        - **Data Collection:** Gather metrics on air quality, environmental conditions, and time/location data.
-        - **Federated Learning:** Conduct local model training, using encrypted updates and privacy-preserving methods.
-      </details>
+    <details>
+      <summary>📖 Click to expand for implementation details</summary>
+      - **Data Collection:** Gather metrics on air quality, environmental conditions, and time/location data.
+      - **Federated Learning:** Perform local model training using encrypted updates.
+    </details>
 
 ## 🌍 Community Building
 - Launch the website and engage with AI and blockchain communities for feedback.
