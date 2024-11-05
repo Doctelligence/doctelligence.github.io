@@ -27,35 +27,34 @@ This roadmap outlines the strategic phases for developing the network, focusing 
   - Incorporate as a formal entity for fundraising and governance.
 
 ## 🧪 Prototype Development
-- **Small-Scale Testbed:**
-  - Validate the DIN protocol through demonstration use cases.
 
-- **DIN Protocol Development:**
-  - Create a decentralized framework for collaborative AI training that ensures data privacy.
+- **Small-Scale Testbed & DIN Protocol Development:**  
+  - Launch a pilot to validate the DIN protocol, developing a decentralized framework for collaborative AI training that ensures data privacy through real-world use cases.
 
-    ### 🔑 Key Components of the DIN Protocol:
-    - **Decentralized Data Handling:**  
-      Participants contribute model updates without sharing raw data, maintaining privacy.
-      
-    - **Federated Model Training:**  
-      Local training on individual datasets to enhance model accuracy while respecting privacy.
+### 🔑 Key Components of the DIN Protocol:
 
-    - **Aggregated Model Updates:**  
-      Securely aggregate encrypted updates from participants for a global model.
+- **Decentralized Data Handling:**  
+  - Participants contribute model updates without sharing raw data, preserving privacy.
 
-    - **Incentive Mechanisms:**  
-      Implement a rewards system to foster participation.
+- **Federated Model Training:**  
+  - Localized training on individual datasets to improve model accuracy while maintaining data privacy.
 
-## 🌳 Example Use Cases
-### Environmental Monitoring
-- **Decentralized AI Platform:**  
-  Collaboratively train an AI model for predicting air pollution without sharing raw sensor data.
+- **Aggregated Model Updates:**  
+  - Securely aggregate encrypted updates from participants to build a global model.
 
-    <details>
-      <summary>📖 Click to expand for implementation details</summary>
-      - **Data Collection:** Metrics on air quality, environmental conditions, and temporal/geospatial data.
-      - **Federated Learning:** Local model training, encrypted updates, and privacy-preserving techniques.
-    </details>
+- **Incentive Mechanisms:**  
+  - Implement a rewards system to encourage active participation and contribution.
+
+- **Example Use Cases:**
+  - **Environmental Monitoring:**  
+    - **Decentralized AI Platform:**  
+      - Collaboratively train an AI model to predict air pollution, without sharing raw sensor data.
+
+      <details>
+        <summary>📖 Click to expand for implementation details</summary>
+        - **Data Collection:** Gather metrics on air quality, environmental conditions, and time/location data.
+        - **Federated Learning:** Conduct local model training, using encrypted updates and privacy-preserving methods.
+      </details>
 
 ## 🌍 Community Building
 - Launch the website and engage with AI and blockchain communities for feedback.
