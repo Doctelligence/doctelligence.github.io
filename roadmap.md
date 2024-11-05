@@ -57,16 +57,6 @@ This roadmap outlines the strategic phases for developing the network, focusing 
       - **Federated Learning:** Local model training, encrypted updates, and privacy-preserving techniques.
     </details>
 
-### Food Insecurity Prediction
-- **Collaborative AI Model:**  
-  Enable food banks to train a model predicting food insecurity trends without sharing sensitive client data.
-
-    <details>
-      <summary>📖 Click to expand for implementation details</summary>
-      - **Data Collection:** Anonymized client demographics, inventory levels, and local economic indicators.
-      - **Federated Learning:** Predictive models with encrypted updates, utilizing privacy preservation techniques.
-    </details>
-
 ## 🌍 Community Building
 - Launch the website and engage with AI and blockchain communities for feedback.
 
