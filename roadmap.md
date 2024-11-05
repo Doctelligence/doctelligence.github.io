@@ -23,12 +23,13 @@ This roadmap outlines the strategic phases for developing the network, focusing 
   - Engage with industry experts to guide project development.
 
 - **Pre-seed Funding:**
-  - Target $50k to $100k to support initial operations.
+  - Target >$100k to support initial operations.
   - Incorporate as a formal entity for fundraising and governance.
 
 ## 🧪 Prototype Development
 
-- **DIN Protocol & Decentralized Training:**  
+- **DIN Protocol Pilot:**  
+  - Validate the DIN protocol with a pilot, enabling decentralized, privacy-preserving AI training through encrypted updates and participant incentives.
   - Launch a pilot to validate the DIN protocol, enabling privacy-preserving, decentralized AI training. Participants contribute encrypted model updates from local datasets, which are aggregated into a global model. Incentives encourage ongoing participation and collaboration.
 
 - **Example Use Case:**  
