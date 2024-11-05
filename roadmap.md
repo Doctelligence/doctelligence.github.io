@@ -31,19 +31,8 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 - **Small-Scale Testbed & DIN Protocol Development:**  
   - Launch a pilot to validate the DIN protocol, developing a decentralized framework for collaborative AI training that ensures data privacy through real-world use cases.
 
-### 🔑 Key Components of the DIN Protocol:
-
-- **Decentralized Data Handling:**  
-  - Participants contribute model updates without sharing raw data, preserving privacy.
-
-- **Federated Model Training:**  
-  - Localized training on individual datasets to improve model accuracy while maintaining data privacy.
-
-- **Aggregated Model Updates:**  
-  - Securely aggregate encrypted updates from participants to build a global model.
-
-- **Incentive Mechanisms:**  
-  - Implement a rewards system to encourage active participation and contribution.
+- **Decentralized & Federated Training with Incentives:**  
+  - Participants contribute encrypted model updates from their local datasets, enabling privacy-preserving, decentralized training that enhances model accuracy without sharing raw data. The updates are securely aggregated to create a global model. To encourage participation, an incentive mechanism rewards contributors, fostering continuous collaboration and improving model performance.
 
 - **Example Use Cases:**
   - **Environmental Monitoring:**  
