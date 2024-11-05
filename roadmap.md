@@ -30,7 +30,6 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 - **DIN Protocol Pilot:**  
   - Validate the DIN protocol with a pilot, enabling decentralized, privacy-preserving AI training through encrypted updates and participant incentives.
-  - Launch a pilot to validate the DIN protocol, enabling privacy-preserving, decentralized AI training. Participants contribute encrypted model updates from local datasets, which are aggregated into a global model. Incentives encourage ongoing participation and collaboration.
 
 - **Example Use Case:**  
   - Train an AI model to predict air pollution without sharing raw sensor data.
