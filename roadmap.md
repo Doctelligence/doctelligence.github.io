@@ -19,7 +19,6 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ## 🧠 Establish an Ecosystem of Support
 - **Collaborations:**
-  - Partner with [Cambridge Frontiers Lab](https://www.frontiers.cam.ac.uk/) for expertise and visibility.
   - Engage with industry experts to guide project development.
 
 - **Pre-seed Funding:**
