@@ -11,8 +11,8 @@ Doctelligence, born of the DIN vision paper, provides a decentralized framework 
 **What we’re all about:**
 
 - **Decentralized Data**: Keeping data secure on-device, without intermediaries.  
-- **Decentralized AI Training**: Sharing only encrypted model updates for AI development.  
-- **Incentivizing Participation**: Data owners earn rewards by opting in.
+- **Decentralized AI**: Sharing only encrypted model updates for AI development.  
+- **Decentralized Rewards**: Data owners earn rewards by opting in.
   
 ## Empowering AI with Decentralized Data  
 
