@@ -30,15 +30,6 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 - **DIN Protocol Pilot:**  
   - Validate the DIN protocol with a pilot, enabling decentralized, privacy-preserving AI training through encrypted updates and participant incentives.
 
-- **Example Use Case:**  
-  - Train an AI model to predict air pollution without sharing raw sensor data.
-
-    <details>
-      <summary>📖 Click to expand for implementation details</summary>
-      - **Data Collection:** Gather metrics on air quality, environmental conditions, and time/location data.
-      - **Federated Learning:** Perform local model training using encrypted updates.
-    </details>
-
 ## 🌍 Community Building
 - Launch the website and engage with AI and blockchain communities for feedback.
 
