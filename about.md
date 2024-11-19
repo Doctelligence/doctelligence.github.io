@@ -6,7 +6,7 @@ intro_image_hide_on_mobile: true
 ---
 ## Our Vision  
 
-Doctelligence, born of the DIN vision paper, provides a decentralized framework for AI development. We enable data holders to monetize their information while earning rewards for contributing to AI training.
+Doctelligence, based on the DIN vision paper, provides a decentralized AI framework where data holders can monetize their data and earn rewards for contributing to AI training. By removing intermediaries, we enable a system where diverse, decentralized data fuels AI innovation, benefiting both users and developers as the ecosystem grows.
 
 **What we’re all about:**
 
@@ -14,10 +14,6 @@ Doctelligence, born of the DIN vision paper, provides a decentralized framework 
 - **Decentralized AI**: Sharing only encrypted model updates for AI development.  
 - **Decentralized Rewards**: Data owners earn rewards by opting in.
   
-## Empowering AI with Decentralized Data  
-
-We envision a future where decentralized data empowers users and removes the need for third-party intermediaries. Data holders can monetize their data while AI developers access a diverse dataset—all while keeping the data decentralized. As more users join, AI innovation grows, benefiting both users and developers.  
-
 ## Join Us  
 
 If you’re a data scientist, blockchain enthusiast, or passionate about decentralization, Doctelligence welcomes you. Together, we’re creating an open and decentralized AI future where innovation and privacy coexist.  
