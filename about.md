@@ -10,9 +10,9 @@ Doctelligence, based on the DIN vision paper, provides a decentralized AI framew
 
 **What we’re all about:**
 
-- **Decentralized Data**: Keeping data secure on-device, without intermediaries.  
+- **Data Ownership**: Keeping data secure on-device, without intermediaries.  
 - **Decentralized AI**: Sharing only encrypted model updates for AI development.  
-- **Decentralized Rewards**: Data owners earn rewards by opting in.
+- **Direct Rewards**: Data owners earn rewards by opting in.
   
 ## Join Us  
 
