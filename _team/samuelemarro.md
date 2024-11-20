@@ -1,7 +1,7 @@
 ---
 title: "Samuele Marro"  
 date: 2018-11-19T10:47:58+10:00  
-image: "images/team/"  
+image: "images/team/samuelemarro.png"  
 jobtitle: "PhD Student in AIMS | Blockchain Developer"  
 linkedinurl: ""  
 promoted: true  
