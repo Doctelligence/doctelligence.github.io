@@ -10,9 +10,9 @@ Doctelligence, born out of the DIN vision paper, enables trustless AI training o
 
 **What we’re all about:**
 
-- **Data Ownership**: Keeping data secure on-device, without intermediaries.  
+- **Data Ownership**: Keeping data secure and decentralized.  
 - **Decentralized AI**: Sharing only encrypted model updates for AI development.  
-- **Direct Rewards**: Data owners earn rewards by opting in.
+- **Direct Rewards**: Data owners earn rewards, without intermediaries.
   
 ## Join Us  
 
