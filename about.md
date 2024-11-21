@@ -6,7 +6,7 @@ intro_image_hide_on_mobile: true
 ---
 ## Our Vision  
 
-Doctelligence, inspired by the DIN vision, enables trustless AI training on decentralized data stores. Data holders can securely monetize their contributions while fueling AI innovation, creating a reward-driven ecosystem that benefits both users and developers.
+Doctelligence, born out of the DIN vision paper, enables trustless AI training on decentralized data stores. Data holders can securely monetize their contributions while fueling AI innovation, creating a reward-driven ecosystem that benefits both users and developers.
 
 **What we’re all about:**
 
