@@ -16,6 +16,6 @@ Doctelligence, born out of the DIN vision paper, enables trustless AI training o
   
 ## Join Us  
 
-Together, we’re creating an open and decentralized AI future where innovation and privacy coexist.  
+Together, we’re creating an open and decentralized AI future.  
 
 Ready to learn more or get involved? [Contact us](https://doctelligence.github.io/contact/) or check our latest updates.
