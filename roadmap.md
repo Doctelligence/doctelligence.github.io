@@ -23,8 +23,8 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 - **Pre-seed Funding:**
   - Target >$100k to support initial operations.
-  - Incorporate as a formal entity for fundraising and governance.
-
+  - Establish a formal entity to oversee fundraising and governance within the commercial arm, supporting dedicated research, advancing technologies, and expanding the foundation and network.
+  - 
 ## 🧪 Prototype Development
 
 - **DIN Protocol Pilot:**  
