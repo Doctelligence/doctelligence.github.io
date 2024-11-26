@@ -2,7 +2,7 @@
 title: "Abraham Nash"  
 date: 2018-11-19T10:47:58+10:00  
 image: "images/team/abrahamnash.jpeg"  
-jobtitle: "Founder & Systems Architect Designer at Doctelligence | PhD Student in Computer Science, University of Oxford"  
+jobtitle: "Founder & Systems Architect Designer | PhD Student in Computer Science, University of Oxford"  
 linkedinurl: "https://www.linkedin.com/in/dr-abraham-nash-866502270/"  
 promoted: true  
 weight: 1  
