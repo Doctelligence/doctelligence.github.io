@@ -2,7 +2,7 @@
 title: "Samuele Marro"  
 date: 2018-11-19T10:47:58+10:00  
 image: "images/team/samuele.jpeg"  
-jobtitle: "DPhil Student at Oxford University | Smart Contract Developer at Doctelligence"  
+jobtitle: "PhD Student at Oxford University | Smart Contract Developer"  
 linkedinurl: "https://www.linkedin.com/in/samuelemarro"  
 promoted: true  
 weight: 1  
