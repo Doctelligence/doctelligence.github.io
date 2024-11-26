@@ -26,8 +26,6 @@ This roadmap outlines the strategic phases for developing the network, focusing 
   - Establish a formal entity to oversee fundraising and governance, supporting dedicated research, advancing technologies, and expanding the foundation and network.
   - 
 ## 🧪 Prototype Development
-
-- **DIN Protocol Pilot:**  
   - Validate the DIN protocol with a pilot, enabling decentralized, privacy-preserving AI training through encrypted updates and participant incentives.
 
 ## 🌍 Community Building
@@ -38,7 +36,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 # Phase 2 (Part 1): Seed Funding and Token Launch (12-18 months)
 
 ## 💰 Aim for Seed Round
-- Target >$1 million in traditional financing to develop deep-tech technologies aligned with our vision for decentralized intelligence.
+- Target >$1 million in lab financing to develop deep-tech technologies aligned with our vision for decentralized intelligence.
 
 ## 🔄 Token Launch Considerations
 - Explore utility-driven token models only if beneficial for the network's vision. Recognize that native tokens can be volatile and speculative assets.
