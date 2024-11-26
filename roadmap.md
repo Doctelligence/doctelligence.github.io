@@ -22,7 +22,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
   - Engage with industry experts to guide project development.
     
 - **Pre-seed Funding:**
-  - Target >$100k to support initial operations.
+  - Target >$250K to support initial operations.
   - Establish a formal entity to oversee fundraising and governance, supporting dedicated research, advancing technologies, and expanding the foundation and network.
   - 
 ## 🧪 Prototype Development
