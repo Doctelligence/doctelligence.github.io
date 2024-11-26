@@ -24,17 +24,16 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 🧪 Prototype Development
   - Validate the DIN protocol with a pilot, enabling decentralized, privacy-preserving AI training through encrypted updates and participant incentives.
 
-- **Pre-seed Funding:**
-  - Target >$100k to support initial operations of the foundation.
-  - Establish a formal entity to oversee fundraising and governance, supporting dedicated research, advancing technologies, and expanding the foundation and network.
-
 ## 🌍 Community Building
 - Launch the website and engage with AI and blockchain communities for feedback.
 
 ---
 
-# Phase 2 (Part 1): Seed Funding and Token Launch (12-18 months)
+# Phase 2 (Part 1): Token Launch (12-18 months)
 
+- **Establish Foundation**
+  - Establish a formal entity to oversee fundraising and governance, supporting dedicated research, advancing technologies, and expanding the foundation and network.
+    
 ## 🔄 Token Launch Considerations
 - Explore utility-driven token models only if beneficial for the network's vision. Recognize that native tokens can be volatile and speculative assets.
 
