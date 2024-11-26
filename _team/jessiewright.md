@@ -2,7 +2,7 @@
 title: "Jessie Wright"  
 date: 2018-11-19T10:47:58+10:00  
 image: "images/team/jesse.jpeg"  
-jobtitle: "PhD Student @ Oxford University| Technical Advisor | Web Architect"  
+jobtitle: "Technical Advisor, Web Architect | PhD Student in Computer Science, University of Oxford"  
 linkedinurl: "https://www.linkedin.com/in/jeswr/"  
 promoted: true  
 weight: 1  
