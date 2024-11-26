@@ -1,5 +1,5 @@
 ---
-title: "Founder & Systems Architect Designer | PhD Student in Computer Science, University of Oxford"  
+title: "Abraham Nash"  
 date: 2018-11-19T10:47:58+10:00  
 image: "images/team/abrahamnash.jpeg"  
 jobtitle: "Founder & Systems Architect Designer at Doctelligence | PhD Student in Computer Science, University of Oxford"  
