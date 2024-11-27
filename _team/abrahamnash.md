@@ -8,7 +8,7 @@ promoted: true
 weight: 1  
 ---
 
-Abraham Nash is a researcher in systems architecture and decentralized AI at the University of Oxford, where he is pursuing a PhD in Computer Science within the Division of Human-Centered Computing. His research focuses on decentralized systems, data sovereignty, and blockchain, with the aim of efficiently utilizing data for AI development through decentralized AI (DeAI).
+Abraham Nash is a PhD student in Computer Science at the University of Oxford. His research focuses on decentralized systems, data sovereignty, and blockchain, with the aim of efficiently utilizing data for AI development through decentralized AI (DeAI).
 
 Abraham initially graduated with a medical degree from the University of London before shifting his focus to technology and AI. He later earned a Master’s degree from the University of Cambridge, where he developed AI tools for real-world applications. His academic journey spans medicine, AI development, and systems architecture, providing a unique interdisciplinary approach to building decentralized systems that prioritize individual data sovereignty.
 
