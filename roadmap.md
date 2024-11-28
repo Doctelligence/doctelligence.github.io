@@ -34,7 +34,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 - **🏛️ Establishing a Foundation**
   - Establish a formal entity to oversee fundraising and provide comprehensive governance infrastructure. This foundation will support dedicated research and technological innovation while enabling systematic network expansion and ecosystem development.
     
-## 🔄 Token Launch Considerations
+-**🔄 Token Launch Considerations**
 - Explore utility-driven token models only if beneficial for the network's vision. Recognize that native tokens can be volatile and speculative assets.
 
 # Phase 2 (Part 2): Testnet Development and Testing (12-18 months)
