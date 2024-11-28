@@ -22,7 +22,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
   - Engage with industry experts to guide project development.
     
 ## 🧪 Prototype Development
-  - Validate the DIN protocol with a pilot, enabling decentralized, privacy-preserving AI training through encrypted updates and participant incentives.
+- Develop and deploy production-ready smart contracts for the DIN protocol, enabling decentralized, privacy-preserving AI training. These contracts will handle encrypted model updates and implement a robust incentive mechanism, serving as a proof-of-concept to validate feasibility and lay the foundation for future scalability.
 
 ## 🌍 Community Building
 - Launch the website and engage with AI and blockchain communities for feedback.
