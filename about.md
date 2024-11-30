@@ -6,7 +6,7 @@ intro_image_hide_on_mobile: true
 ---
 ## Our Vision  
 
-Doctelligence, born out of the DIN vision paper, enables trustless AI training on decentralized data stores. Data holders can securely monetize their contributions while fueling AI innovation, creating a reward-driven ecosystem that benefits both users and developers.
+Doctelligence, born out of the DIN vision paper, enables scalable and trustless AI training on decentralized data stores. This framework allows data holders to securely monetize their contributions while advancing AI innovation. By creating a reward-driven ecosystem that seamlessly integrates scalability, security, and decentralization, Doctelligence benefits both users and developers, fostering a robust and inclusive environment for innovation.
 
 **What we’re all about:**
 
