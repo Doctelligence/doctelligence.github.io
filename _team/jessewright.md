@@ -8,12 +8,12 @@ promoted: true
 weight: 1  
 ---
 
-Jessee Wright is a PhD student in Computer Science at the University of Oxford, where his research focuses on decentralized web architectures and ethical AI. He serves as a Technical Advisor at Doctelligence, providing expertise on designing scalable, secure, and ethical web solutions.
+Jesse Wright is a PhD student in Computer Science at the University of Oxford, specializing in decentralized web architectures and artificial intelligence (AI). As a Technical Advisor at Doctelligence, he plays a crucial role in guiding the development of scalable, secure, and efficient decentralized AI solutions, leveraging his extensive experience with decentralized systems.
 
-Jesse was appointed by Sir Tim Berners-Lee, the founder of the World Wide Web, to lead the technical development of Solid, a groundbreaking decentralized web project aimed at giving individuals control over their own data. As a Software Architect, Jesse is responsible for guiding the architectural direction of Solid and collaborating with the open-source community to realize the vision of a user-centric, ethical web.
+Jesse was appointed by Sir Tim Berners-Lee, the founder of the World Wide Web, to lead the technical development of Solid, an open-source, decentralized web project aimed at providing individuals with full control over their own data. This experience in managing and scaling complex decentralized systems directly informs his work at Doctelligence, where he helps shape the technical infrastructure of the Decentralized Intelligence Network (DIN).
 
-His work bridges web architecture and AI ethics, and he is an active member of the Ethical Web and Data Architectures Group (EWADA) at Oxford. This group, co-led by Sir Tim Berners-Lee and Sir Nigel Shadbolt, focuses on creating new technical and social frameworks for a more equitable, fair, and user-controlled internet.
+His work in both AI and decentralized systems allows him to seamlessly bridge the gap between these two domains. Jesse’s contributions extend to the Ethical Web and Data Architectures Group (EWADA) at Oxford, where he collaborates with industry leaders on advancing frameworks for decentralized, peer-to-peer networks. This practical experience in building decentralized networks and integrating AI technologies allows him to guide Doctelligence’s mission to develop a decentralized, open-source AI ecosystem.
 
-Jesse is dedicated to advancing technologies that prioritize privacy, transparency, and fairness online, striving to build a web that empowers users while safeguarding their rights and freedoms.
+By leveraging his technical expertise, Jesse ensures that Doctelligence's DIN network remains scalable and capable of meeting the demands of a rapidly evolving decentralized AI landscape. His leadership helps optimize both the architecture and the technical skillsets needed to deliver a high-performance, user-centric system that is both secure and adaptable.
 
 Learn more about Jesse on his [personal blog](https://blog.jeswr.org/about) or connect with him on [LinkedIn](https://www.linkedin.com/in/jeswr/).
