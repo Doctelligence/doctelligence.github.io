@@ -39,9 +39,6 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 🔬 Testnet Testing
 - Conduct closed testnet tests to validate functionality and collect user feedback.
 
-## 🤝 Partnerships
-- Forge collaborations with federated learning companies and data providers.
-
 ## 💰 Subsequent Funding Rounds  
 - Seek Series A funding to further support growth and development.
 
@@ -67,6 +64,9 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 🔐 Privacy-Preserving Features
 - Integrate advanced privacy-preserving technologies, such as homomorphic encryption (HE), to ensure data security on the network.
 
+## 🤝 Partnerships
+- Forge collaborations with federated learning companies and data providers.
+  
 ## 📊 Community and Network Building
 - Engage with the community to build network participants, including data providers, evaluators, and stakeholders, to ensure a decentralized and scalable ecosystem.
 
