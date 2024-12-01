@@ -53,7 +53,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ---
 
-# Phase 3: Mainnet Launch and Ecosystem Growth (18-24 months)
+# Phase 3: Testnet Launch and Ecosystem Growth (18-24 months)
 
 ## ⚙️ Testbed and Protocol Refinement
 - Enhance testbeds with integrated federated learning protocols and establish multi-chain interoperability.
@@ -61,14 +61,14 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 🛠️ Developer Tools and Ecosystem Support
 - Release comprehensive tools, documentation, and host community engagement events.
 
-## 🚀 Mainnet Launch
-- Launch the mainnet to showcase enhanced infrastructure and onboard early adopters.
+## 🚀 Testnet Launch
+- Launch the testnet to demonstrate infrastructure and onboard early testers for feedback.
+  
+## 🔐 Privacy-Preserving Features
+- Integrate advanced privacy-preserving technologies, such as homomorphic encryption (HE), to ensure data security on the network.
 
-## 🗳️ Decentralized Governance
-- Implement governance models that empower community decision-making and maintain data sovereignty.
-
-## 🌐 Ecosystem Growth
-- Foster partnerships to expand capabilities and launch decentralized applications across industries.
+## 📊 Community and Network Building
+- Engage with the community to build network participants, including data providers, evaluators, and stakeholders, to ensure a decentralized and scalable ecosystem.
 
 # Phase 4: Mainnet Deployment and Scaling (24-36 months)
 
@@ -93,22 +93,25 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 # Phase 5: Long-term Vision and Innovation (36+ months)
 
 ## 🌍 Network Adoption
-- Establish regional hubs for growth and compliance with data protection laws.
+- Establish regional hubs for growth, ensuring compliance with global data protection laws.
+
+## 🌐 Ecosystem Expansion
+- Strengthen partnerships to support decentralized applications and broaden the ecosystem's capabilities.
 
 ## 🛠️ Real-world Applications
-- Support DApps addressing global challenges and explore circular token economies.
+- Foster DApps that tackle global challenges, focusing on practical and impactful use cases.
 
 ## 🧑‍🔬 Research and Development
-- Advance blockchain innovations in AI coordination through research collaborations.
+- Advance AI coordination in blockchain through continued research and strategic collaborations.
 
 ## 🔗 Interoperability and Standards
-- Work with industry bodies to establish standards for decentralized AI networks.
+- Partner with industry bodies to set standards for decentralized AI networks, ensuring broader adoption and seamless integration.
 
-## 🏢 Enterprise Adoption  
-- Develop enterprise-grade solutions and onboard major corporations into the ecosystem.
+## 🏢 Enterprise Integration
+- Develop solutions tailored to enterprises, driving adoption among major corporations within the ecosystem.
 
 ## 🛠️ Decentralized AI Marketplaces
-- Launch a decentralized marketplace for AI models and datasets, ensuring fair compensation and quality verification.
+- Launch a decentralized marketplace for AI models and datasets, ensuring transparency, fair compensation, and quality control.
 
 ---
 
