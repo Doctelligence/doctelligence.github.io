@@ -48,7 +48,8 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ---
 
 ##  🔄 Token Generating Event (TGE)  
-- Token-generating event (TGE) designed to incentivize network growth and long-term sustainability through utility-driven token models. Token distribution will allocate to Evaluators, the core team, contributors, liquidity provisions, marketing, affiliate programs, and decentralized governance. The TGE will ensure broad participation and support the decentralized ecosystem's development.
+- Token-generating event (TGE) designed to secure network and long-term sustainability through utility-driven token models.
+- Token distribution will allocate to Evaluators, the core team, contributors, liquidity provisions, marketing, affiliate programs, and decentralized governance. The TGE will ensure broad participation and support the decentralized ecosystem's development.
 
 ---
 
