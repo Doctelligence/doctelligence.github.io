@@ -14,7 +14,6 @@ Doctelligence enables AI training on decentralized data, allowing developers and
 
 ## Our Mission
 We're building an open, decentralized AI infrastructure that:
-
 - Protects individual data rights
 - Creates economic opportunities for data owners
 - Drives collaborative AI advancement
