@@ -61,11 +61,11 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 🛠️ Developer Tools and Ecosystem Support
 - Release comprehensive tools, documentation, and host community engagement events.
 
-## 💡 Token Listings
-- List tokens on relevant exchanges to enhance liquidity and attract broader participation.
-
 ## 🌍 Community Engagement
 - Continue engaging with the community to build network participants, including data providers, evaluators, and stakeholders to ensure a decentralized and scalable ecosystem.
+
+## 💡 Token Listings
+- List tokens on relevant exchanges to enhance liquidity and attract broader participation.
 
 ## 🚀 Testnet Launch
 - Launch the testnet to demonstrate infrastructure and onboard early testers for feedback.
