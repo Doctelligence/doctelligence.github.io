@@ -49,23 +49,20 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ---
 # Phase 3: Testnet Launch and Ecosystem Growth 
 
-## 💰 Token-Generating Event (TGE)
-- Host a token-generating event (TGE) to secure the network and ensure long-term sustainability through utility-driven token models.
-  
 ## 🔬 Testnet Development
 - Conduct closed testnet tests to validate functionality and collect user feedback.
 
 ## 🔐 Privacy Features Integration
 - Integrate advanced privacy-preserving technologies, such as homomorphic encryption (HE), to ensure data security on the network.
 
+## 💰 Token-Generating Event (TGE)
+- Host a token-generating event (TGE) to secure the network and ensure long-term sustainability through utility-driven token models.
+
 ## 🛠️ Developer Tools and Ecosystem Support
 - Release comprehensive tools, documentation, and host community engagement events.
 
 ## 🌍 Community Engagement
 - Continue engaging with the community to build network participants, including data providers, evaluators, and stakeholders to ensure a decentralized and scalable ecosystem.
-
-## 💡 Token Listings
-- List tokens on relevant exchanges to enhance liquidity and attract broader participation.
 
 ## 🚀 Testnet Launch
 - Launch the testnet to demonstrate infrastructure and onboard early testers for feedback.
