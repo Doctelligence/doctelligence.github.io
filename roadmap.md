@@ -43,7 +43,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 📢 Marketing
 - Initiate marketing efforts to raise awareness and generate interest in the project.
 
-## 💼 Series A Funding Round
+## 💼 Funding Round
 - Seek Series A funding to further support growth and development.
 
 ---
