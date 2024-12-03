@@ -31,7 +31,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 💰 Seed Funding
 - Raise seed funding to establish the project and support early-stage development.
 
-## 🔗 Testnet Development
+## 🔗 MVP Development
 - Strengthen blockchain architecture for interoperability and finalize smart contracts.
 
 ## 📊 Protocol Optimization
@@ -43,9 +43,6 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 📢 Marketing
 - Initiate marketing efforts to raise awareness and generate interest in the project.
 
-## 🔬 Testnet Testing
-- Conduct closed testnet tests to validate functionality and collect user feedback.
-
 ## 💼 Series A Funding Round
 - Seek Series A funding to further support growth and development.
 
@@ -55,8 +52,8 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 💰 Token-Generating Event (TGE)
 - Host a token-generating event (TGE) to secure the network and ensure long-term sustainability through utility-driven token models.
   
-## 🚀 Testnet Launch
-- Launch the testnet to demonstrate infrastructure and onboard early testers for feedback.
+## 🔬 Testnet Development
+- Conduct closed testnet tests to validate functionality and collect user feedback.
 
 ## 🔐 Privacy Features Integration
 - Integrate advanced privacy-preserving technologies, such as homomorphic encryption (HE), to ensure data security on the network.
@@ -69,6 +66,9 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ## 🌍 Community Engagement
 - Continue engaging with the community to build network participants, including data providers, evaluators, and stakeholders to ensure a decentralized and scalable ecosystem.
+
+## 🚀 Testnet Launch
+- Launch the testnet to demonstrate infrastructure and onboard early testers for feedback.
 
 ## 🤝 Partnerships
 - Forge collaborations with federated learning companies, open-source organizations, and data providers.
