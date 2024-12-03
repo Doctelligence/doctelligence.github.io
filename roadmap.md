@@ -19,26 +19,23 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 🧪 Prototype
 - Develop and deploy smart contracts for the DIN protocol as a proof of concept, enabling decentralized AI training and reward issuance, to validate feasibility and establish a foundation for future scalability.
 - Initiate initial test releases to gather early feedback and validate the core concepts.
+  
+## 💰 Seed Funding
+- Raise seed funding to establish the project and support early-stage development.
+---
+
+# Phase 2: Seed Funding & MVP Development 
+
+## 🔗 MVP Development
+- Finalize blockchain architecture and smart contracts for reward issuance, model training, and edge node integration for on-device federated learning.
+- Optimize federated learning protocols, incorporating privacy-preserving features and efficient integration of evaluator nodes.
 
 ## 🌍 Community Building
 - Launch the website and engage with AI and blockchain communities for feedback.
-- Engage with industry experts to guide project development 
+- Engage with industry experts to guide project development
 
----
-
-# Phase 2: Seed Funding & Testnet Development 
-
-## 💰 Seed Funding
-- Raise seed funding to establish the project and support early-stage development.
-
-## 🔗 MVP Development
-- Strengthen blockchain architecture for interoperability and finalize smart contracts.
-
-## 📊 Protocol Optimization
-- Optimize federated learning protocols for efficiency, integrating privacy-preserving features.
-
-## 🌐 Community Building
-- Launch the website and engage with AI and blockchain communities for feedback.
+## 🛠️ Technical Development & Testing
+- Conduct rigorous testing of the MVP, including scalability and performance evaluations.
 
 ## 📢 Marketing
 - Initiate marketing efforts to raise awareness and generate interest in the project.
@@ -47,7 +44,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 - Seek Series A funding to further support growth and development.
 
 ---
-# Phase 3: Testnet Launch and Ecosystem Growth 
+# Phase 3: Testnet Development and Ecosystem Growth 
 
 ## 🔬 Testnet Development
 - Conduct closed testnet tests to validate functionality and collect user feedback.
