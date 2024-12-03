@@ -8,7 +8,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ---
 
-# Phase 1: Foundation and Proof of Concept (3 months)
+# Phase 1: Foundation and Proof of Concept 
 
 ## 👥 Team Building
 - Recruit key founders, advisors, and experts with expertise in blockchain, AI/ML, federated learning, privacy-preserving technologies, and systems architecture.
@@ -26,7 +26,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ---
 
-# Phase 2: Seed Funding & Testnet Development (6-12 months)
+# Phase 2: Seed Funding & Testnet Development 
 
 ## 💰 Seed Funding
 - Raise seed funding to establish the project and support early-stage development.
@@ -46,13 +46,15 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 🔬 Testnet Testing
 - Conduct closed testnet tests to validate functionality and collect user feedback.
 
-## 💼 Subsequent Funding Rounds & TGE
+## 💼 Series A Funding Round
 - Seek Series A funding to further support growth and development.
-- Host a token-generating event (TGE) to secure the network and ensure long-term sustainability through utility-driven token models.
 
 ---
-# Phase 3: Testnet Launch and Ecosystem Growth (12-24 months)
+# Phase 3: Testnet Launch and Ecosystem Growth 
 
+## 💰 Token-Generating Event (TGE)
+- Host a token-generating event (TGE) to secure the network and ensure long-term sustainability through utility-driven token models.
+  
 ## 🚀 Testnet Launch
 - Launch the testnet to demonstrate infrastructure and onboard early testers for feedback.
 
@@ -71,7 +73,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 🤝 Partnerships
 - Forge collaborations with federated learning companies, open-source organizations, and data providers.
 
-# Phase 4: Mainnet Deployment and Scaling (24-36 months)
+# Phase 4: Mainnet Deployment and Scaling
 
 ## 🖥️ Mainnet Deployment
 - Launch the DIN mainnet with full functionality on Ethereum.
@@ -91,7 +93,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 🏗️ Decentralization of Protocol Ownership
 - Begin decentralizing control of the protocol to the community to ensure long-term sustainability and governance.
 
-# Phase 5: Long-term Vision and Innovation (36+ months)
+# Phase 5: Long-term Vision and Innovation
 
 ## 🌍 Network Adoption
 - Establish regional hubs for growth, ensuring compliance with global data protection laws.
