@@ -10,40 +10,59 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 # Phase 1: Foundation and Proof of Concept 
 
+## 📅 Event Participation
+- **Speaker at the Summit on Responsible Decentralized Intelligence—Future of Decentralization and AI**, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC.  
+  - [Visit Berkeley RDI Event Page](https://rdi.berkeley.edu/events/decentralizationaisummit)
+
 ## 👥 Team Building
 - Recruit key founders, advisors, and experts with expertise in blockchain, AI/ML, federated learning, privacy-preserving technologies, and systems architecture.
 
 ## 📄 Whitepaper and Technical Specification
 - Collaborate with specialists for comprehensive input on design and technical specifications.
-    
-## 🧪 Prototype
+
+## 🧪 Prototype Development
 - Develop and deploy smart contracts for the DIN protocol as a proof of concept, enabling decentralized AI training and reward issuance, to validate feasibility and establish a foundation for future scalability.
-- Initiate initial test releases to gather early feedback and validate the core concepts.
-  
+- Initiate initial test releases to gather early feedback and validate core concepts.
+
 ## 💰 Seed Funding
 - Raise seed funding to establish the project and support early-stage development.
+
+## 💡 Partnership Strategy
+- Initiate strategic partnerships with blockchain and AI/ML research labs.
+
 ---
 
-# Phase 2: Seed Funding & MVP Development 
+# Phase 2: MVP Development 
 
 ## 🔗 MVP Development
-- Finalize blockchain architecture and smart contracts for reward issuance, model training, and edge node integration for on-device federated learning.
-- Optimize federated learning protocols, incorporating privacy-preserving features and efficient integration of evaluator nodes.
+- Optimize blockchain architecture and smart contracts for reward issuance, model training, and integration with edge nodes for on-device federated learning.
+- Enhance federated learning protocols by integrating privacy-preserving techniques like Zero-Knowledge Proofs (ZKPs) and Multi-Party Computation (MPC) to ensure secure model training and aggregation.
 
-## 🌍 Community Building
-- Launch the website and engage with AI and blockchain communities for feedback.
-- Engage with industry experts to guide project development
+## 📅 Event Participation
+- **Present at DeAI 2024: The Future of Decentralized AI** on March 28, 2025, 9AM – 5PM in Midtown, NYC.  
+  - [Visit DeAI 2024 Website](https://deai.nyc/)
 
 ## 🛠️ Technical Development & Testing
 - Conduct rigorous testing of the MVP, including scalability and performance evaluations.
 
+## 🌍 Open Source Community Building
+- Share the project's code and development updates, providing clear guidelines for contributions and encouraging collaboration from the open-source community.
+- Actively invite developers to contribute to the project by submitting issues, feature requests, and pull requests to help improve and expand the platform.
+- Launch the website and engage with AI and blockchain communities for feedback.
+- Engage with industry experts to guide project development.
+
 ## 📢 Marketing
 - Initiate marketing efforts to raise awareness and generate interest in the project.
+- Host webinars, AMAs, or open-source hackathons to involve the broader community.
 
-## 💼 Funding Round
-- Seek Series A funding to further support growth and development.
+## 🧑‍💻 Developer Engagement & Onboarding
+- Provide easy-to-follow documentation, SDKs, and API interfaces for developers.
+
+## 💰 Funding Round
+- Raise additional funding to accelerate growth and development, including seeking further seed investment or Series A funding.
 
 ---
+
 # Phase 3: Testnet Development and Ecosystem Growth 
 
 ## 🔬 Testnet Development
