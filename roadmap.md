@@ -46,10 +46,8 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 - Conduct rigorous testing of the MVP, including scalability and performance evaluations.
 
 ## 🌍 Open Source Community Building
-- Share the project's code and development updates, providing clear guidelines for contributions and encouraging collaboration from the open-source community.
-- Actively invite developers to contribute to the project by submitting issues, feature requests, and pull requests to help improve and expand the platform.
-- Launch the website and engage with AI and blockchain communities for feedback.
-- Engage with industry experts to guide project development.
+- Share project code and updates with clear contribution guidelines, inviting developers to submit issues, feature requests, and pull requests.
+- Launch the website and engage with AI and blockchain communities to gather feedback and guide project development.
 
 ## 📢 Marketing
 - Initiate marketing efforts to raise awareness and generate interest in the project.
