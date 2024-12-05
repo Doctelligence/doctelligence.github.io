@@ -20,39 +20,32 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 📄 Whitepaper and Technical Specification
 - Collaborate with specialists for comprehensive input on design and technical specifications.
 
-## 🧪 Prototype Development
-- Develop and deploy smart contracts for the DIN protocol as a proof of concept, enabling decentralized AI training and reward issuance, to validate feasibility and establish a foundation for future scalability.
-- Initiate initial test releases to gather early feedback and validate core concepts.
+## 🧪 Prototype Demo
+- Develop and deploy smart contracts for the DIN protocol as a proof of concept, demonstrating the feasibility of decentralized AI training and reward issuance. 
+ This prototype aims to validate the core functionality of the system, showcasing its potential and laying the groundwork for future scalability and full implementation.
 
 ## 💰 Seed Funding
 - Raise seed funding to establish the project and support early-stage development.
-
-## 💡 Partnership Strategy
-- Initiate strategic partnerships with blockchain and AI/ML research labs.
 
 ---
 
 # Phase 2: MVP Development 
 
 ## 🔗 MVP Development
-- Optimize blockchain architecture and smart contracts for reward issuance, model training, and integration with edge nodes for on-device federated learning.
-- Enhance federated learning protocols by integrating privacy-preserving techniques like Zero-Knowledge Proofs (ZKPs) and Multi-Party Computation (MPC) to ensure secure model training and aggregation.
+Optimize blockchain architecture and smart contracts for efficient reward issuance, model training, and integration with edge nodes for on-device federated learning.
+Integrate privacy-preserving techniques like Zero-Knowledge Proofs (ZKPs) and Homomorphic Encryption (HE) to ensure secure, privacy-focused model training and aggregation across decentralized participants.
+
+## 🛠️ Technical Development & Testing
+- Conduct rigorous testing of the MVP, including scalability and performance evaluations.
 
 ## 📅 Event Participation
 - **Present at DeAI 2024: The Future of Decentralized AI** on March 28, 2025, 9AM – 5PM in Midtown, NYC.  
   - [Visit DeAI 2024 Website](https://deai.nyc/)
 
-## 🛠️ Technical Development & Testing
-- Conduct rigorous testing of the MVP, including scalability and performance evaluations.
-
 ## 🌍 Open Source Community Building
 - Share project code and updates with clear contribution guidelines, inviting developers to submit issues, feature requests, and pull requests.
 - Launch the website and engage with AI and blockchain communities to gather feedback and guide project development.
-
-## 📢 Marketing
-- Initiate marketing efforts to raise awareness and generate interest in the project.
-- Host webinars, AMAs, or open-source hackathons to involve the broader community.
-
+  
 ## 🧑‍💻 Developer Engagement & Onboarding
 - Provide easy-to-follow documentation, SDKs, and API interfaces for developers.
 
@@ -80,6 +73,10 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ## 🚀 Testnet Launch
 - Launch the testnet to demonstrate infrastructure and onboard early testers for feedback.
+
+## 📢 Marketing
+- Initiate marketing efforts to raise awareness and generate interest in the project.
+- Host webinars, AMAs, or open-source hackathons to involve the broader community.
 
 ## 🤝 Partnerships
 - Forge collaborations with federated learning companies, open-source organizations, and data providers.
