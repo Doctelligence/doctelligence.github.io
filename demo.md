@@ -1,7 +1,7 @@
 ---
-title: Demo
+title: Live Demo
 layout: page
-description: Demo
+description: Live Demo
 ---
 
 ## Coming Soon
