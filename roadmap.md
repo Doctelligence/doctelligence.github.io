@@ -25,7 +25,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
  This prototype aims to validate the core functionality of the system, showcasing its potential and laying the groundwork for future scalability and full implementation.
 
 ## 💰 Seed Funding
-- Raise seed funding to establish the project and support early-stage development.
+- Raise initial capital to develop the testnet (MVP), build a lean development team, and establish the foundation for core network technologies.
 
 ---
 
