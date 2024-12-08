@@ -45,14 +45,15 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 🧑‍💻 Developer Engagement & Onboarding
 - Provide easy-to-follow documentation, SDKs, and API interfaces for developers.
 
+## 🤝 Partnerships
+- Forge collaborations with federated learning companies, open-source organizations, and data providers.
+- 
 ## 🌍 Community Building
 - Share project code and updates with clear contribution guidelines, inviting developers to submit issues, feature requests, and pull requests.
 - Launch the website and engage with AI and blockchain communities to gather feedback and guide project development.
   
 ## 💰 Series A (2nd Fundraise)
 - Raise additional funding to accelerate growth and development, including seeking further seed investment or Series A funding.
-
-## 💰 Token-Generating Event (TGE)
 - Host a token-generating event (TGE) to secure the network and ensure long-term sustainability through utility-driven token models.
 
 ---
@@ -77,9 +78,6 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 📢 Marketing
 - Initiate marketing efforts to raise awareness and generate interest in the project.
 - Host webinars, AMAs, or open-source hackathons to involve the broader community.
-
-## 🤝 Partnerships
-- Forge collaborations with federated learning companies, open-source organizations, and data providers.
 
 # Phase 4: Mainnet Deployment and Scaling
 
