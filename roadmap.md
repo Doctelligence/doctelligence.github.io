@@ -49,7 +49,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 🧑‍💻 Developer Engagement & Onboarding
 - Provide easy-to-follow documentation, SDKs, and API interfaces for developers.
 
-## 💰 Funding Round
+## 💰 Series A (2nd Fundraise)
 - Raise additional funding to accelerate growth and development, including seeking further seed investment or Series A funding.
 
 ## 💰 Token-Generating Event (TGE)
