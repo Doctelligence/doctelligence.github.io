@@ -34,9 +34,10 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 🔗 Testnet (MVP) Development
 - Optimize blockchain architecture and smart contracts for efficient reward issuance, model training, and integration with edge nodes for on-device federated learning.
 - Integrate privacy-preserving techniques like Zero-Knowledge Proofs (ZKPs) and Homomorphic Encryption (HE) to ensure secure, privacy-focused model training and aggregation across decentralized participants.
-
+  
 ## 🛠️ Technical Development & Testing
-- Conduct rigorous testing of the MVP, including scalability and performance evaluations.
+- Conduct rigorous testing of the MVP, including scalability and performance evaluations in select environments.
+- Test with data partners etc. 
 
 ## 📅 Event Participation
 - **Present at DeAI 2024: The Future of Decentralized AI** on March 28, 2025, 9AM – 5PM in Midtown, NYC.  
@@ -45,13 +46,14 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 🧑‍💻 Developer Engagement & Onboarding
 - Provide easy-to-follow documentation, SDKs, and API interfaces for developers.
 
-## 🤝 Partnerships
-- Forge collaborations with federated learning companies, open-source organizations, and data providers.
-- 
 ## 🌍 Community Building
 - Share project code and updates with clear contribution guidelines, inviting developers to submit issues, feature requests, and pull requests.
 - Launch the website and engage with AI and blockchain communities to gather feedback and guide project development.
-  
+
+## 🤝 Partnerships
+- Forge collaborations with blockchain ecosystems, federated-learning entities, open-source organizations, and data providers.
+- Partner with select data contributors to test real-world use cases, ensuring that data sovereignty and privacy-preserving mechanisms (e.g., encryption, secure aggregation) are functioning effectively.
+
 ## 💰 Series A (2nd Fundraise)
 - Raise additional funding to accelerate growth and development, including seeking further seed investment or Series A funding.
 - Host a token-generating event (TGE) to secure the network and ensure long-term sustainability through utility-driven token models.
