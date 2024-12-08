@@ -42,13 +42,13 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 - **Present at DeAI 2024: The Future of Decentralized AI** on March 28, 2025, 9AM – 5PM in Midtown, NYC.  
   - [Visit DeAI 2024 Website](https://deai.nyc/)
 
-## 🌍 Open Source Community Building
-- Share project code and updates with clear contribution guidelines, inviting developers to submit issues, feature requests, and pull requests.
-- Launch the website and engage with AI and blockchain communities to gather feedback and guide project development.
-  
 ## 🧑‍💻 Developer Engagement & Onboarding
 - Provide easy-to-follow documentation, SDKs, and API interfaces for developers.
 
+## 🌍 Community Building
+- Share project code and updates with clear contribution guidelines, inviting developers to submit issues, feature requests, and pull requests.
+- Launch the website and engage with AI and blockchain communities to gather feedback and guide project development.
+  
 ## 💰 Series A (2nd Fundraise)
 - Raise additional funding to accelerate growth and development, including seeking further seed investment or Series A funding.
 
