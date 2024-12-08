@@ -52,6 +52,9 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 💰 Funding Round
 - Raise additional funding to accelerate growth and development, including seeking further seed investment or Series A funding.
 
+## 💰 Token-Generating Event (TGE)
+- Host a token-generating event (TGE) to secure the network and ensure long-term sustainability through utility-driven token models.
+
 ---
 
 # Phase 3: Testnet Development and Ecosystem Growth 
@@ -61,9 +64,6 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ## 🔐 Privacy Features Integration
 - Integrate advanced privacy-preserving technologies, such as homomorphic encryption (HE), to ensure data security on the network.
-
-## 💰 Token-Generating Event (TGE)
-- Host a token-generating event (TGE) to secure the network and ensure long-term sustainability through utility-driven token models.
 
 ## 🛠️ Developer Tools and Ecosystem Support
 - Release comprehensive tools, documentation, and host community engagement events.
