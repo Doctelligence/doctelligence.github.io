@@ -24,7 +24,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 - Develop and deploy smart contracts for the DIN protocol as a proof of concept, demonstrating the feasibility of decentralized AI training and reward issuance. 
  This prototype aims to validate the core functionality of the system, showcasing its potential and laying the groundwork for future scalability and full implementation.
 
-## 💰 Seed Funding
+## 💰 Seed (1st Fundraise)
 - Raise initial capital to develop the testnet (MVP), build a lean development team, and establish the foundation for core network technologies.
 
 ---
