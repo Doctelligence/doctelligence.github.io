@@ -20,7 +20,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 📄 Whitepaper and Technical Specification
 - Collaborate with specialists for comprehensive input on design and technical specifications.
 
-## 🧪 Prototype Demo
+## 🧪 Demo (Prototype)
 - Develop and deploy smart contracts for the DIN protocol as a proof of concept, demonstrating the feasibility of decentralized AI training and reward issuance. 
  This prototype aims to validate the core functionality of the system, showcasing its potential and laying the groundwork for future scalability and full implementation.
 
