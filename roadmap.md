@@ -29,9 +29,9 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ---
 
-# Phase 2: MVP Development 
+# Phase 2: Testnet (MVP) Development 
 
-## 🔗 MVP Development
+## 🔗 Testnet (MVP) Development
 - Optimize blockchain architecture and smart contracts for efficient reward issuance, model training, and integration with edge nodes for on-device federated learning.
 - Integrate privacy-preserving techniques like Zero-Knowledge Proofs (ZKPs) and Homomorphic Encryption (HE) to ensure secure, privacy-focused model training and aggregation across decentralized participants.
 
@@ -56,7 +56,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 # Phase 3: Testnet Development and Ecosystem Growth 
 
-## 🔬 Testnet Development
+## 🔬 Testnet (Enhanced) Development
 - Conduct closed testnet tests to validate functionality and collect user feedback.
 
 ## 🔐 Privacy Features Integration
