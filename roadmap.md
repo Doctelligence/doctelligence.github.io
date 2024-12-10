@@ -43,8 +43,8 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 - **Present at DeAI 2024: The Future of Decentralized AI** on March 28, 2025, 9AM – 5PM in Midtown, NYC.  
   - [Visit DeAI 2024 Website](https://deai.nyc/)
 
-## 🧑‍💻 Developer Engagement & Onboarding
-- Provide easy-to-follow documentation, SDKs, and API interfaces for developers.
+## 🛠️ Developer Tools and Ecosystem Support
+- Release comprehensive tools, documentation, and host community engagement events.
 
 ## 🌍 Community Building
 - Share project code and updates with clear contribution guidelines, inviting developers to submit issues, feature requests, and pull requests.
@@ -68,11 +68,11 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 🔐 Privacy Features Integration
 - Integrate advanced privacy-preserving technologies, such as homomorphic encryption (HE), to ensure data security on the network.
 
-## 🛠️ Developer Tools and Ecosystem Support
-- Release comprehensive tools, documentation, and host community engagement events.
-
 ## 🌍 Community Engagement
 - Continue engaging with the community to build network participants, including data providers, evaluators, and stakeholders to ensure a decentralized and scalable ecosystem.
+
+## 🧑‍💻 Developer Engagement & Onboarding
+- Provide easy-to-follow documentation, SDKs, and API interfaces for developers.
 
 ## 🚀 Testnet Launch
 - Launch the testnet to demonstrate infrastructure and onboard early testers for feedback.
