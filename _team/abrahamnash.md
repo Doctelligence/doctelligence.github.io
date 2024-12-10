@@ -16,4 +16,4 @@ As the author of the vision paper for the Decentralized Intelligence Network (DI
 
 With a strong foundation in technology and systems architecture, Abraham is committed to advancing AI in a way that empowers individuals and ensures technologies serve the public good.
 
-Connect with Abraham on [LinkedIn](https://www.linkedin.com/in/dr-abraham-nash-866502270/).
+Learn more about Abraham on his [homepage](https://www.cs.ox.ac.uk/people/abraham.nash/) or connect with him on [LinkedIn](https://www.linkedin.com/in/dr-abraham-nash-866502270/).
