@@ -65,39 +65,34 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ## Phase 3: Testnet Development and Ecosystem Growth
 
-### 🔬 Testnet Development  
-- Develop key API integrations with decentralized public blockchain ecosystems and critical data sources.
-- Design and build intuitive user interfaces tailored for different entities within the network (data providers, validators, etc.).
-- Conduct closed testnet trials to validate network functionality, assess performance, and gather user feedback for continuous improvement.
-- Create and simulate an early test group of evaluators focused on securing the network, ensuring proper consensus, and identifying potential vulnerabilities.
+## 🔬 Testnet Development  
+- Develop key API integrations and user interfaces for the network.  
+- Conduct closed testnet trials to validate functionality and gather feedback.  
+- Simulate an early test group to focus on securing the network and validating consensus.
 
-### 🔐 Privacy Features Integration  
-- Implement cutting-edge privacy-preserving technologies such as homomorphic encryption (HE), zero-knowledge proofs (ZKPs), and secure multi-party computation (SMPC) to safeguard data and ensure user privacy on the network.
-- Conduct testing to validate the effectiveness and efficiency of privacy features under varying conditions.
+## 🔐 Privacy Features Integration  
+- Integrate privacy-preserving technologies like homomorphic encryption and zero-knowledge proofs.  
+- Test privacy features for effectiveness under various conditions.
 
-### 🌍 Community Engagement  
-- Continue fostering community engagement through active outreach to data providers, validators, and stakeholders to drive adoption and ensure a decentralized, collaborative ecosystem.
-- Launch educational content, tutorials, and workshops to help participants better understand the project's goals, technology, and the importance of decentralization.
+## 🌍 Community Engagement  
+- Engage data providers, validators, and stakeholders to foster decentralization.  
+- Launch educational content and workshops to raise awareness.
 
-### 🧑‍💻 Developer Engagement & Onboarding  
-- Provide comprehensive, easy-to-follow documentation, SDKs, and API interfaces to support developers.
-- Host developer-focused events such as workshops, hackathons, and coding sprints to encourage collaboration and code contributions.
+## 🧑‍💻 Developer Engagement & Onboarding  
+- Provide documentation, SDKs, and API interfaces.  
+- Host workshops, hackathons, and coding events to encourage contributions.
 
-### 🚀 Testnet Launch  
-- Officially launch the testnet to demonstrate core infrastructure, performance, and scalability.
-- Onboard early testers and gather feedback to fine-tune the network’s capabilities, security, and user experience.
+## 🚀 Testnet Launch  
+- Launch the testnet to demonstrate core infrastructure and gather feedback from early testers.
 
-### 🛡️ Security Auditing & Testing  
-- Perform a comprehensive security audit of all smart contracts, protocols, and network infrastructure to identify vulnerabilities and ensure they adhere to industry best practices.
-- Engage third-party auditors to conduct thorough reviews of the codebase, identifying potential weaknesses or exploits in the system.
-- Conduct penetration testing and stress testing on the network to simulate real-world attacks and evaluate system robustness under extreme conditions.
-- Ensure that all identified vulnerabilities are fixed promptly and verified through subsequent audits and tests.
-- Continuously monitor the network for emerging threats and implement patches as needed to maintain a secure ecosystem.
+## 🛡️ Security Auditing & Testing  
+- Conduct comprehensive security audits, penetration tests, and stress tests.  
+- Fix vulnerabilities promptly and monitor for emerging threats.
 
-### 📢 Marketing  
-- Initiate a targeted marketing campaign to build awareness and generate excitement within the broader blockchain community.
-- Host webinars, AMAs, and open-source hackathons to involve the community in development, attract new participants, and showcase use cases.
-- Leverage social media, partnerships, and PR to amplify the project's reach and attract potential investors and users.
+## 📢 Marketing  
+- Launch a marketing campaign to build awareness.  
+- Host webinars, AMAs, and open-source events to engage the community.  
+- Use social media and partnerships to expand reach.
 
 ## Phase 4: Mainnet Deployment and Scaling
 
