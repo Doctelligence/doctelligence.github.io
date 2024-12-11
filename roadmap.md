@@ -8,30 +8,30 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ---
 
-## Phase 1: Foundation and Proof of Concept 
+## Phase 1: Foundation and Proof of Concept
 
 ## 📅 Event Participation
-- **Speaker at the Summit on Responsible Decentralized Intelligence—Future of Decentralization and AI**, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC.  
+- **Speaker at the Summit on Responsible Decentralized Intelligence – The Future of Decentralization and AI**, hosted by Berkeley RDI on **August 6, 2024**, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC.
   - [Visit Berkeley RDI Event Page](https://rdi.berkeley.edu/events/decentralizationaisummit)
 
 ## 👥 Team Building
-- Recruit key founders, advisors, and experts with expertise in blockchain, AI/ML, federated learning, privacy-preserving technologies, and systems architecture.
+- Assemble a core team of founders, advisors, and domain experts specializing in blockchain, AI/ML, federated learning, privacy-preserving technologies, and systems architecture to guide project direction and ensure technical excellence.
 
-## 📄 Whitepaper and Technical Specification
-- Collaborate with specialists for comprehensive input on design and technical specifications.
+## 📄 Whitepaper and Technical Specifications
+- Collaborate with industry specialists to draft a detailed whitepaper and technical specifications, providing a solid foundation for the project's vision, architecture, and long-term goals.
 
-## 🧪 Demo (Prototype)
-- Develop and deploy smart contracts for the DIN protocol as a proof of concept, demonstrating the feasibility of decentralized AI training and reward issuance. 
- This prototype aims to validate the core functionality of the system, showcasing its potential and laying the groundwork for future scalability and full implementation.
+## 🧪 Prototype Development
+- Develop and deploy smart contracts for the **DIN Protocol** as a proof of concept, showcasing decentralized AI training and reward issuance.
+  - This prototype will validate core functionalities, demonstrate the project's feasibility, and set the stage for future scalability and full implementation.
 
-## 💰 Seed (1st Fundraise)
-- Raise initial capital to develop the testnet (MVP), build a lean development team, and establish the foundation for core network technologies.
-
+## 💰 Seed Fundraising (1st Round)
+- Secure initial funding to develop the testnet (MVP), build a lean and efficient development team, and establish the technical foundation for core network infrastructure.
+  
 ---
 
-## Phase 2: Testnet (MVP) Development 
+## Phase 2: MVP Development 
 
-## 🔗 Testnet (MVP) Development
+## 🔗 MVP Development
 - Optimize blockchain architecture and smart contracts for efficient reward issuance, model training, and integration with edge nodes for on-device federated learning.
 - Integrate privacy-preserving techniques like Zero-Knowledge Proofs (ZKPs) and Homomorphic Encryption (HE) to ensure secure, privacy-focused model training and aggregation across decentralized participants.
   
@@ -60,26 +60,41 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ---
 
-## Phase 3: Testnet Development and Ecosystem Growth 
+## Phase 3: Testnet Development and Ecosystem Growth
 
-## 🔬 Testnet (Enhanced) Development
-- Conduct closed testnet tests to validate functionality and collect user feedback.
+### 🔬 Testnet Development  
+- Develop key API integrations with decentralized public blockchain ecosystems and critical data sources.
+- Design and build intuitive user interfaces tailored for different entities within the network (data providers, validators, etc.).
+- Conduct closed testnet trials to validate network functionality, assess performance, and gather user feedback for continuous improvement.
+- Create and simulate an early test group of evaluators focused on securing the network, ensuring proper consensus, and identifying potential vulnerabilities.
 
-## 🔐 Privacy Features Integration
-- Integrate advanced privacy-preserving technologies, such as homomorphic encryption (HE), to ensure data security on the network.
+### 🔐 Privacy Features Integration  
+- Implement cutting-edge privacy-preserving technologies such as homomorphic encryption (HE), zero-knowledge proofs (ZKPs), and secure multi-party computation (SMPC) to safeguard data and ensure user privacy on the network.
+- Conduct testing to validate the effectiveness and efficiency of privacy features under varying conditions.
 
-## 🌍 Community Engagement
-- Continue engaging with the community to build network participants, including data providers, evaluators, and stakeholders to ensure a decentralized and scalable ecosystem.
+### 🌍 Community Engagement  
+- Continue fostering community engagement through active outreach to data providers, validators, and stakeholders to drive adoption and ensure a decentralized, collaborative ecosystem.
+- Launch educational content, tutorials, and workshops to help participants better understand the project's goals, technology, and the importance of decentralization.
 
-## 🧑‍💻 Developer Engagement & Onboarding
-- Provide easy-to-follow documentation, SDKs, and API interfaces for developers.
+### 🧑‍💻 Developer Engagement & Onboarding  
+- Provide comprehensive, easy-to-follow documentation, SDKs, and API interfaces to support developers.
+- Host developer-focused events such as workshops, hackathons, and coding sprints to encourage collaboration and code contributions.
 
-## 🚀 Testnet Launch
-- Launch the testnet to demonstrate infrastructure and onboard early testers for feedback.
+### 🚀 Testnet Launch  
+- Officially launch the testnet to demonstrate core infrastructure, performance, and scalability.
+- Onboard early testers and gather feedback to fine-tune the network’s capabilities, security, and user experience.
 
-## 📢 Marketing
-- Initiate marketing efforts to raise awareness and generate interest in the project.
-- Host webinars, AMAs, or open-source hackathons to involve the broader community.
+### 🛡️ Security Auditing & Testing  
+- Perform a comprehensive security audit of all smart contracts, protocols, and network infrastructure to identify vulnerabilities and ensure they adhere to industry best practices.
+- Engage third-party auditors to conduct thorough reviews of the codebase, identifying potential weaknesses or exploits in the system.
+- Conduct penetration testing and stress testing on the network to simulate real-world attacks and evaluate system robustness under extreme conditions.
+- Ensure that all identified vulnerabilities are fixed promptly and verified through subsequent audits and tests.
+- Continuously monitor the network for emerging threats and implement patches as needed to maintain a secure ecosystem.
+
+### 📢 Marketing  
+- Initiate a targeted marketing campaign to build awareness and generate excitement within the broader blockchain community.
+- Host webinars, AMAs, and open-source hackathons to involve the community in development, attract new participants, and showcase use cases.
+- Leverage social media, partnerships, and PR to amplify the project's reach and attract potential investors and users.
 
 ## Phase 4: Mainnet Deployment and Scaling
 
