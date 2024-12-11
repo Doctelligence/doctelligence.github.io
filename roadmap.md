@@ -35,8 +35,8 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## Phase 2: MVP Development 
 
 ## 🔗 MVP Development
-- Optimize blockchain architecture and smart contracts for efficient reward issuance, model training, and integration with edge nodes for on-device federated learning.
-- Integrate privacy-preserving techniques like Zero-Knowledge Proofs (ZKPs) and Homomorphic Encryption (HE) to ensure secure, privacy-focused model training and aggregation across decentralized participants.
+- Optimize blockchain architecture and smart contracts for efficient model training, and integration with edge nodes for on-device federated learning.
+- Integrate privacy-preserving techniques like Zero-Knowledge Proofs (ZKPs) and Homomorphic Encryption (HE) to ensure secure, privacy-focused model evaluation for rewards across decentralized evaluator pariticpants.
   
 ## 🛠️ Technical Development & Testing
 - Conduct scalability and performance testing across real-world and simulated environments to evaluate the MVP’s capacity.
