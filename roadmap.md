@@ -20,13 +20,13 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 📄 Whitepaper and Technical Specifications
 - Collaborate with industry specialists to draft a detailed whitepaper and technical specifications, providing a solid foundation for the project's vision, architecture, and long-term goals.
 
+## 🌐 Early Community Engagement & Online Presence
+- Launch a public GitHub repo, a basic website for updates, and social media accounts (e.g., Twitter) to share progress, engage with the community, and build awareness.
+
 ## 🧪 Prototype Development
 - Develop and deploy smart contracts for the **DIN Protocol** as a proof of concept, showcasing decentralized AI training and reward issuance.
   - This prototype will validate core functionalities, demonstrate the project's feasibility, and set the stage for future scalability and full implementation.
 
-## 🌐 Early Community Engagement & Online Presence
-- Launch a public GitHub repo, a basic website for updates, and social media accounts (e.g., Twitter) to share progress, engage with the community, and build awareness.
- 
 ## 💰 Seed Fundraising (1st Round)
 - Secure initial funding to develop the testnet (MVP), build a lean and efficient development team, and establish the technical foundation for core network infrastructure.
 
