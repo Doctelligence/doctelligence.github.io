@@ -39,20 +39,21 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 - Integrate privacy-preserving techniques like Zero-Knowledge Proofs (ZKPs) and Homomorphic Encryption (HE) to ensure secure, privacy-focused model training and aggregation across decentralized participants.
   
 ## 🛠️ Technical Development & Testing
-- Conduct rigorous testing of the MVP, including scalability and performance evaluations in select environments.
-- Test with data partners etc. 
+- Conduct scalability and performance testing across real-world and simulated environments to evaluate the MVP’s capacity.
+- Perform integration testing with data partners and edge nodes to verify seamless interaction and functionality
+
+## 🛠️ Developer Tools and Ecosystem Support
+- Release SDKs, APIs, and comprehensive documentation for developers to integrate blockchain and federated learning functionalities into their applications.
+- Provide easy-to-follow tutorials and guides on utilizing privacy-preserving features and connecting to the network.
 
 ## 📅 Event Participation
 - **Present at DeAI 2024: The Future of Decentralized AI** on March 28, 2025, 9AM – 5PM in Midtown, NYC.  
   - [Visit DeAI 2024 Website](https://deai.nyc/)
-
-## 🛠️ Developer Tools and Ecosystem Support
-- Release comprehensive tools, documentation, and host community engagement events.
-
+ 
 ## 🌍 Community Building
 - Share project code and updates with clear contribution guidelines, inviting developers to submit issues, feature requests, and pull requests.
 - Launch the website and engage with AI and blockchain communities to gather feedback and guide project development.
-
+ 
 ## 🤝 Partnerships
 - Forge collaborations with blockchain ecosystems, federated-learning entities, open-source organizations, and data providers.
 - Partner with select data contributors to test real-world use cases, ensuring that data sovereignty and privacy-preserving mechanisms (e.g., encryption, secure aggregation) are functioning effectively.
