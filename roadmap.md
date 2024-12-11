@@ -126,5 +126,5 @@ This roadmap outlines the strategic phases for developing the network, focusing 
   
 ---
 
-## 🚀 Visions for the Future: The Path to Decentralized AI
+## 🌐 The Path to Decentralized AI
 This roadmap outlines a clear path toward a sustainable and community-driven decentralized AI ecosystem, with each phase laying the foundation for the next. By following this roadmap, we are committed to ensuring that our decentralized AI network evolves in a way that is both innovative and inclusive.
