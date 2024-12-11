@@ -8,7 +8,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ---
 
-# Phase 1: Foundation and Proof of Concept 
+## Phase 1: Foundation and Proof of Concept 
 
 ## 📅 Event Participation
 - **Speaker at the Summit on Responsible Decentralized Intelligence—Future of Decentralization and AI**, hosted by Berkeley RDI on August 6, 2024, at the Verizon Center, Cornell Tech Campus, Roosevelt Island, NYC.  
@@ -29,7 +29,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ---
 
-# Phase 2: Testnet (MVP) Development 
+## Phase 2: Testnet (MVP) Development 
 
 ## 🔗 Testnet (MVP) Development
 - Optimize blockchain architecture and smart contracts for efficient reward issuance, model training, and integration with edge nodes for on-device federated learning.
@@ -60,7 +60,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ---
 
-# Phase 3: Testnet Development and Ecosystem Growth 
+## Phase 3: Testnet Development and Ecosystem Growth 
 
 ## 🔬 Testnet (Enhanced) Development
 - Conduct closed testnet tests to validate functionality and collect user feedback.
@@ -81,7 +81,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 - Initiate marketing efforts to raise awareness and generate interest in the project.
 - Host webinars, AMAs, or open-source hackathons to involve the broader community.
 
-# Phase 4: Mainnet Deployment and Scaling
+## Phase 4: Mainnet Deployment and Scaling
 
 ## 🖥️ Mainnet Deployment
 - Launch the DIN mainnet with full functionality on Ethereum.
@@ -101,7 +101,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 🏗️ Decentralization of Protocol Ownership
 - Begin decentralizing control of the protocol to the community to ensure long-term sustainability and governance.
 
-# Phase 5: Long-term Vision and Innovation
+## Phase 5: Long-term Vision and Innovation
 
 ## 🌍 Network Adoption
 - Establish regional hubs for growth, ensuring compliance with global data protection laws.
@@ -126,5 +126,5 @@ This roadmap outlines the strategic phases for developing the network, focusing 
   
 ---
 
-# 🚀 Visions for the Future: The Path to Decentralized AI
+## 🚀 Visions for the Future: The Path to Decentralized AI
 This roadmap outlines a clear path toward a sustainable and community-driven decentralized AI ecosystem, with each phase laying the foundation for the next. By following this roadmap, we are committed to ensuring that our decentralized AI network evolves in a way that is both innovative and inclusive.
