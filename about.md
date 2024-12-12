@@ -7,7 +7,7 @@ intro_image_hide_on_mobile: true
 ### Our Vision  
 Doctelligence enables AI training on decentralized data, allowing developers and data owners to collaborate securely within a scalable, trustless, peer-to-peer ecosystem. It ensures privacy, transparency, and fair rewards, reducing barriers to AI training and data availability.
 
-### Core Principles
+### Core Features
 - **Data Ownership**: Keeping data decentralized and secure.  
 - **Decentralized AI**: Sharing only encrypted model updates for AI development.  
 - **Direct Rewards**: Data owners earn rewards, without intermediaries.
