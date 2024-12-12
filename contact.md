@@ -4,4 +4,4 @@ layout: contact
 description: Contact
 ---
 
-### Location: Oxford, U.K.
+### Location: Oxford, England.
