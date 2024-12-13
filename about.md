@@ -5,7 +5,7 @@ description: Learn more about Doctelligence and our mission.
 intro_image_hide_on_mobile: true  
 ---
 ### Our Vision  
-Doctelligence is a breakthrough peer-peer blockchain protocol that enables decentralizes AI training and transforms the web of data architecture. It enables users to retain control over their data and identity, rewards them financially, and fosters new economies, all while operating independently of central authorities within a secure and transparent network.
+DIN is a blockchain protocol that enables fully decentralized, peer-to-peer AI training. It transforms data architecture on the web by allowing users to maintain control over their data and identity, while financially rewarding them. Operating independently of central authorities, DIN fosters new economies within a secure and transparent network.
 
 ### Core Features
 - **Data Ownership**: Keeping data decentralized and secure.  
