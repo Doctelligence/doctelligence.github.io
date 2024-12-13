@@ -5,7 +5,7 @@ description: Learn more about Doctelligence and our mission.
 intro_image_hide_on_mobile: true  
 ---
 ### Our Vision  
-Doctelligence enables AI training on decentralized data, allowing developers and data owners to collaborate securely within a scalable, trustless, peer-to-peer ecosystem. It ensures privacy, transparency, and fair rewards, reducing barriers to AI training and data availability.
+Doctelligence is a breakthrough peer-peer blockchain protocol that enables decentralizes AI training and transforms the web of data architecture. It enables users to retain control over their data and identity, rewards them financially, and fosters new economies, all while operating independently of central authorities within a secure and transparent network.
 
 ### Core Features
 - **Data Ownership**: Keeping data decentralized and secure.  
