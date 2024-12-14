@@ -30,7 +30,9 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 💰 Seed Fundraising (1st Round)
 - Secure initial funding to develop the testnet (MVP), build a lean and efficient development team, and establish the technical foundation for core network infrastructure.
 
----## Phase 2: Testnet (MVP) Development  
+---
+
+## Phase 2: Testnet (MVP) Development  
 
 ## 🔗 Testnet (MVP) Development  
 - Optimize blockchain architecture and smart contracts for efficient model training, leveraging decentralized blockchain ecosystems like Ethereum and layering solution environments.
