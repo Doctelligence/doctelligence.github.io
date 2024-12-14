@@ -24,44 +24,43 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 - Develop and deploy smart contracts for the **DIN Protocol** as a proof of concept, showcasing decentralized AI training and reward issuance.
   - This prototype will validate core functionalities, demonstrate the project's feasibility, and set the stage for future scalability and full implementation.
 
-## 🌐 Early Community Engagement & Online Presence
+## 🌐 Community & Online Presence
 - Launch a public GitHub repo, a basic website for updates, and social media accounts (e.g., Twitter) to share progress, engage with the community, and build awareness.
 
 ## 💰 Seed Fundraising (1st Round)
 - Secure initial funding to develop the testnet (MVP), build a lean and efficient development team, and establish the technical foundation for core network infrastructure.
 
----
+---## Phase 2: Testnet (MVP) Development  
 
-## Phase 2: MVP Development 
+## 🔗 Testnet (MVP) Development  
+- Optimize blockchain architecture and smart contracts for efficient model training, leveraging decentralized blockchain ecosystems like Ethereum and layering solution environments.
+- Integrate privacy-preserving techniques such as **Homomorphic Encryption (HE)** and **Zero-Knowledge Proofs (ZKPs)** to enable secure, privacy-focused model evaluation and rewards for decentralized evaluator participants.  
 
-## 🔗 MVP Development
-- Optimize blockchain architecture and smart contracts for efficient model training, and integration with edge nodes for on-device federated learning.
-- Integrate privacy-preserving techniques like Zero-Knowledge Proofs (ZKPs) and Homomorphic Encryption (HE) to ensure secure, privacy-focused model evaluation for rewards across decentralized evaluator pariticpants.
-  
-## 🛠️ Technical Development & Testing
-- Conduct scalability and performance testing across real-world and simulated environments to evaluate the MVP’s capacity.
-- Perform integration testing with data partners and edge nodes to verify seamless interaction and functionality
+## 🛠️ Technical Development & Testing  
+- Conduct **unit testing, integration testing, and performance testing** to ensure system scalability and reliability.  
+- Perform integration testing with data partners and edge nodes to verify seamless interaction and functionality.  
 
-## 🛠️ Developer Tools and Ecosystem Support
-- Release SDKs, APIs, and comprehensive documentation for developers to integrate blockchain and federated learning functionalities into their applications.
-- Provide easy-to-follow tutorials and guides on utilizing privacy-preserving features and connecting to the network.
+## 🛠️ Developer Tools and Ecosystem Support  
+- Release **SDKs, APIs**, and comprehensive documentation for developers to integrate blockchain and federated learning functionalities into their applications.  
+- Provide easy-to-follow tutorials and guides on utilizing privacy-preserving features and connecting to the network.  
 
-## 📅 Event Participation
+## 📅 Event Participation  
 - **Present at DeAI 2024: The Future of Decentralized AI** on March 28, 2025, 9AM – 5PM in Midtown, NYC.  
-  - [Visit DeAI 2024 Website](https://deai.nyc/)
- 
-## 🌍 Community Building
-- Share project code and updates with clear contribution guidelines, inviting developers to submit issues, feature requests, and pull requests.
-- Launch the website and engage with AI and blockchain communities to gather feedback and guide project development.
- 
-## 🤝 Partnerships
-- Forge collaborations with blockchain ecosystems, federated-learning entities, open-source organizations, and data providers.
-- Partner with select data contributors to test real-world use cases, ensuring that data sovereignty and privacy-preserving mechanisms (e.g., encryption, secure aggregation) are functioning effectively.
+  - [Visit DeAI 2024 Website](https://deai.nyc/)  
 
-## 💰 Series A (2nd Fundraise)
+## 🌍 Community Building  
+- Share project code and updates with clear contribution guidelines, inviting developers to submit issues, feature requests, and pull requests.  
+- Launch the website and engage with AI and blockchain communities to gather feedback and guide project development.  
+
+## 💰 Series A (2nd Fundraise)  
 - Raise additional funding to accelerate growth and development, including seeking further seed investment or Series A funding.
-- Host a token-generating event (TGE) to secure the network and ensure long-term sustainability through utility-driven token models.
+- **Launch the 'Doctelligence Foundation' entity** alongside the **Token Generation Event (TGE)** to establish governance and support ecosystem growth.  
+- Host a **Token Generation Event (TGE)** to secure the network and ensure long-term sustainability through utility-driven token models.  
 
+## 🤝 Partnerships  
+- Forge collaborations with blockchain ecosystems, federated-learning entities, open-source organizations, and data providers.  
+- Partner with select data contributors to test real-world use cases, ensuring that data sovereignty and privacy-preserving mechanisms (e.g., encryption, secure aggregation) are functioning effectively.
+  
 ---
 
 ## Phase 3: Testnet Development and Ecosystem Growth
