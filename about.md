@@ -12,7 +12,7 @@ intro_image_hide_on_mobile: true
 - **For AI Developers**: Secure, decentralized access to diverse datasets for scalable model training and innovation without the constraints of centralized data.
 - **For Data Owners**: Retain full ownership of your data, monetize it, and unlock its economic potential while ensuring compliance with global data regulations.
 
-### Key Features of *Doctelligence*
+**Key Features:**
 
 - **Data Ownership**  
   Leverage decentralized data stores to ensure full control over personal and organizational data.
