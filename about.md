@@ -4,19 +4,27 @@ layout: page
 description: Learn more about Doctelligence and our mission.  
 intro_image_hide_on_mobile: true  
 ---
-### Our Vision  
-DIN is a blockchain protocol that enables fully decentralized, peer-to-peer AI training. It transforms data architecture on the web by allowing users to maintain control over their data and identity, while financially rewarding them. Operating independently of central authorities, DIN fosters new economies within a secure and transparent network.
+# Welcome to *Doctelligence* 🚀
 
-### Core Features
-- **Data Ownership**: Keeping data decentralized and secure.  
-- **Decentralized AI**: Sharing only encrypted model updates for AI development.  
-- **Direct Rewards**: Data owners earn rewards, without intermediaries.
+*Doctelligence* is built around the **Decentralized Intelligence Network (DIN)**, a pioneering initiative focused on decentralized AI and data systems. At the heart of our mission is **DIN**, a fully decentralized, peer-to-peer blockchain network that enables secure and scalable AI training using decentralized data.
 
-### Our Mission
-We're building an open, decentralized AI infrastructure that:
-- Protects individual data rights
-- Creates economic opportunities for data owners
-- Drives collaborative AI advancement
-  
+**DIN** empowers both **AI developers** and **data owners**:
+
+- **For AI Developers**: Secure, decentralized access to diverse datasets for scalable model training and innovation without the constraints of centralized data.
+- **For Data Owners**: Retain full ownership of your data, monetize it, and unlock its economic potential while ensuring compliance with global data regulations.
+
+### Key Features of *Doctelligence*
+
+- **Data Ownership**  
+  Leverage decentralized data stores to ensure full control over personal and organizational data.
+
+- **Decentralized AI**  
+  Train AI models securely on a decentralized network, utilizing blockchain for model updates while preserving data privacy.
+
+- **Direct Rewards**  
+  Earn cryptographic rewards for participating in AI training processes, ensuring fair compensation without intermediaries.
+
+**DIN**, the network itself, operates independently and is secured by a decentralized network of participants. It is not owned or controlled by any single party, and all interactions within the network are transparently recorded on an immutable public blockchain. This decentralized architecture promotes openness, transparency, and collective participation, ensuring that **DIN** remains a truly community-driven network.
+
 ### Join Us  
 Help shape the future of decentralized AI. [Contact us](https://doctelligence.github.io/contact/) or explore our [GitHub](https://github.com/Doctelligence).
