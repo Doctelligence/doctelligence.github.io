@@ -4,7 +4,6 @@ layout: page
 description: Learn more about Doctelligence and our mission.  
 intro_image_hide_on_mobile: true  
 ---
-# Welcome to *Doctelligence* 🚀
 
 *Doctelligence* is built around the **Decentralized Intelligence Network (DIN)**, a pioneering initiative focused on decentralized AI and data systems. At the heart of our mission is **DIN**, a fully decentralized, peer-to-peer blockchain network that enables secure and scalable AI training using decentralized data.
 
