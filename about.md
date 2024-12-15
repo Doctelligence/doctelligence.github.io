@@ -12,14 +12,12 @@ intro_image_hide_on_mobile: true
 - **For AI Developers**: Secure, decentralized access to diverse datasets for scalable model training and innovation without the constraints of centralized data.
 - **For Data Owners**: Retain full ownership of your data, monetize it, and unlock its economic potential while ensuring compliance with global data regulations.
 
-**Key Features:**
+### Key Features
 
 - **Data Ownership**  
   Leverage decentralized data stores to ensure full control over personal and organizational data.
-
 - **Decentralized AI**  
   Train AI models securely on a decentralized network, utilizing blockchain for model updates while preserving data privacy.
-
 - **Direct Rewards**  
   Earn cryptographic rewards for participating in AI training processes, ensuring fair compensation without intermediaries.
 
