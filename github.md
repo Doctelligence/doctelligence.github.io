@@ -7,7 +7,7 @@ intro_image_hide_on_mobile: true
 
 ## Stay Updated with Our Latest Contributions
 
-We are excited to share our ongoing work in the rapidly evolving fields of **Decentralized AI** and **Data Sovereignty**. To stay up-to-date with our latest projects, innovations, and contributions, we invite you to explore the following:
+We are excited to share our ongoing work in the rapidly evolving fields of **Decentralized AI** and **Data Ownership**. To stay up-to-date with our latest projects, innovations, and contributions, we invite you to explore the following:
 
 - **Latest Research** and **White Papers**
 - **Cutting-Edge Technologies** driving Decentralized Intelligence
