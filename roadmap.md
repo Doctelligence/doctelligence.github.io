@@ -27,7 +27,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 🌐 Community & Online Presence
 - Launch a public GitHub repo, a basic website for updates, and social media accounts (e.g., Twitter) to share progress, engage with the community, and build awareness.
 
-## 💰 Seed Fundraising (1st Round)
+## 💰 Seed Fundraising (1st Raise)
 - Secure initial funding to develop the testnet (MVP), build a lean and efficient development team, and establish the technical foundation for core network infrastructure.
 
 ---
