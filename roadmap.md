@@ -54,14 +54,13 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 - Share project code and updates with clear contribution guidelines, inviting developers to submit issues, feature requests, and pull requests.  
 - Launch the website and engage with AI and blockchain communities to gather feedback and guide project development.  
 
-## 💰 Series A (2nd Fundraise)  
-- Raise additional funding to accelerate growth and development, including seeking further seed investment or Series A funding.
-- **Launch the 'Doctelligence Foundation' entity** alongside the **Token Generation Event (TGE)** to establish governance and support ecosystem growth.  
-- Host a **Token Generation Event (TGE)** to secure the network and ensure long-term sustainability through utility-driven token models.  
-
 ## 🤝 Partnerships  
 - Forge collaborations with blockchain ecosystems, federated-learning entities, open-source organizations, and data providers.  
 - Partner with select data contributors to test real-world use cases, ensuring that data sovereignty and privacy-preserving mechanisms (e.g., encryption, secure aggregation) are functioning effectively.
+
+## 🪙 Token Generation Event (TGE)  
+- **Host the Token Generation Event (TGE)** to secure the network, establish governance, and support ecosystem growth.  
+- Ensure long-term sustainability through utility-driven token models.
   
 ---
 
@@ -76,20 +75,20 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 - Integrate privacy-preserving technologies like homomorphic encryption and zero-knowledge proofs.  
 - Test privacy features for effectiveness under various conditions.
 
-## 🌍 Community Engagement  
-- Engage data providers, validators, and stakeholders to foster decentralization.  
-- Launch educational content and workshops to raise awareness.
-
 ## 🧑‍💻 Developer Engagement & Onboarding  
 - Provide documentation, SDKs, and API interfaces.  
 - Host workshops, hackathons, and coding events to encourage contributions.
 
-## 🚀 Testnet Launch  
-- Launch the testnet to demonstrate core infrastructure and gather feedback from early testers.
+## 🌍 Community Engagement  
+- Engage data providers, validators, and stakeholders to foster decentralization.  
+- Launch educational content and workshops to raise awareness.
 
 ## 🛡️ Security Auditing & Testing  
 - Conduct comprehensive security audits, penetration tests, and stress tests.  
 - Fix vulnerabilities promptly and monitor for emerging threats.
+
+## 🚀 Testnet Launch  
+- Launch the testnet to demonstrate core infrastructure and gather feedback from early testers.
 
 ## 📢 Marketing  
 - Launch a marketing campaign to build awareness.  
