@@ -2,7 +2,7 @@
 title: "Samuele Marro"  
 date: 2018-11-19T10:47:58+10:00  
 image: "images/team/samuele.jpeg"  
-jobtitle: "Smart Contract Developer | PhD Student in AIMS, University of Oxford"  
+jobtitle: "Smart Contract Developer | PhD Student in Autonomous Intelligent Machines and Systems, University of Oxford"  
 linkedinurl: "https://www.linkedin.com/in/samuelemarro"  
 promoted: true  
 weight: 1  
