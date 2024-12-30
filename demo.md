@@ -4,4 +4,6 @@ layout: page
 description: Demo
 ---
 
-## Coming Soon (Live Before 30/12/2024)
+<head>
+  <meta http-equiv="refresh" content="0; url=https://contributor.doctelligence.com/" />
+</head>
