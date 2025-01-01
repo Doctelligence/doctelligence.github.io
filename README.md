@@ -1,7 +1,5 @@
 # Welcome to the Doctelligence Website! 🎉
 
-![Doctelligence Labs Logo](https://doctelligence.github.io/images/logo/logo2.png)
-
 Welcome to the **open-source repository** for the **Doctelligence Labs** web presence! 🚀 This is where we share our progress, ideas, and innovations in **decentralized AI**. Our website is designed to serve as a central hub for **information**, **collaboration**, and **engagement** with our growing community. 
 
 ## Quick Overview 📋
@@ -17,7 +15,7 @@ We’re building something exciting, and **your contributions and feedback are m
 
 Contributions are key to improving our work! Whether you’re a developer, designer, or simply passionate about decentralized AI, we’d love to have you involved. 
 
-![Contributing](https://via.placeholder.com/400x200.png)  <!-- Replace with an image about contributing to open-source -->
+![Doctelligence Labs Logo](https://doctelligence.github.io/images/logo/logo2.png)
 
 If you have ideas or feedback, don't hesitate to:
 
