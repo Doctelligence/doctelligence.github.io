@@ -2,7 +2,7 @@
 
 Welcome to the **open-source repository** for the **Doctelligence Labs** web presence! 🚀 This is where we share our progress, ideas, and innovations in **decentralized AI**. Our website is designed to serve as a central hub for **information**, **collaboration**, and **engagement** with our growing community. 
 
-![Doctelligence Labs Logo](logo.png)  <!-- Replace with your actual logo -->
+![Doctelligence Labs Logo](logo2.png)  <!-- Replace with your actual logo -->
 
 ## Quick Overview 📋
 
