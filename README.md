@@ -15,8 +15,6 @@ We’re building something exciting, and **your contributions and feedback are m
 
 Contributions are key to improving our work! Whether you’re a developer, designer, or simply passionate about decentralized AI, we’d love to have you involved. 
 
-![Doctelligence Labs Logo](https://doctelligence.github.io/images/logo/logo2.png)
-
 If you have ideas or feedback, don't hesitate to:
 
 - Open an **issue** or a **pull request**.
