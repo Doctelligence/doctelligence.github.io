@@ -1,7 +1,7 @@
 ---
-title: Demo
+title: Prototype
 layout: page
-description: Demo
+description: Prototype
 ---
 
 <head>
