@@ -5,8 +5,8 @@ main:
   - name: "Roadmap"
     url: "/roadmap/"
     weight: 2
-  - name: "Demo"
-    url: "/demo/"
+  - name: "Prototype"
+    url: "/prototype/"
     weight: 3
   - name: "GitHub"
     url: "/github/"
