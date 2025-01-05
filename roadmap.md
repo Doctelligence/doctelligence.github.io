@@ -70,21 +70,21 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 - Conduct closed testnet trials to validate functionality and gather feedback.  
 - Simulate an early test group to focus on securing the network and validating consensus.
 
-## 🔐 Privacy Features Integration  
-- Integrate privacy-preserving technologies like homomorphic encryption and zero-knowledge proofs.  
-- Test privacy features for effectiveness under various conditions.
-
 ## 🧑‍💻 Developer Engagement & Onboarding  
 - Provide documentation, SDKs, and API interfaces.  
 - Host workshops, hackathons, and coding events to encourage contributions.
 
-## 🌍 Community Engagement  
-- Engage data providers, validators, and stakeholders to foster decentralization.  
-- Launch educational content and workshops to raise awareness.
+## 🔐 Privacy Features Integration  
+- Integrate privacy-preserving technologies like homomorphic encryption and zero-knowledge proofs.  
+- Test privacy features for effectiveness under various conditions.
 
 ## 🛡️ Security Auditing & Testing  
 - Conduct comprehensive security audits, penetration tests, and stress tests.  
 - Fix vulnerabilities promptly and monitor for emerging threats.
+
+## 🌍 Community Engagement  
+- Engage data providers, validators, and stakeholders to foster decentralization.  
+- Launch educational content and workshops to raise awareness.
 
 ## 📢 Marketing  
 - Launch a marketing campaign to build awareness.  
