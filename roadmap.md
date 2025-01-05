@@ -27,14 +27,14 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 ## 🌐 Community & Online Presence
 - Launch a public GitHub repo, a basic website for updates, and social media accounts (e.g., Twitter) to share progress, engage with the community, and build awareness.
 
-## 💰 Seed Fundraising (1st Raise)
+## 💰 Seed Fundraising
 - Secure initial funding to develop the testnet (MVP), build a lean and efficient development team, and establish the technical foundation for core network infrastructure.
 
 ---
 
 ## Phase 2: Testnet (MVP) Development  
 
-## 🔗 Testnet (MVP) Development  
+## 🔗 Testnet Development  
 - Optimize blockchain architecture and smart contracts for efficient model training, leveraging decentralized blockchain ecosystems like Ethereum and layering solution environments.
 - Integrate privacy-preserving techniques such as **Homomorphic Encryption (HE)** and **Zero-Knowledge Proofs (ZKPs)** to enable secure, privacy-focused model evaluation and rewards for decentralized evaluator participants.  
 
@@ -55,8 +55,7 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 - Launch the website and engage with AI and blockchain communities to gather feedback and guide project development.  
 
 ## 🤝 Partnerships  
-- Forge collaborations with blockchain ecosystems, federated-learning entities, open-source organizations, and data providers.  
-- Partner with select data contributors to test real-world use cases, ensuring that data sovereignty and privacy-preserving mechanisms (e.g., encryption, secure aggregation) are functioning effectively.
+- Build collaborations with open-source decentralized AI communities, blockchain ecosystems, federated learning (FL) organizations, and data networks.
 
 ## 🪙 Token Generation Event (TGE)  
 - **Host the Token Generation Event (TGE)** to secure the network, establish governance, and support ecosystem growth.  
@@ -64,9 +63,9 @@ This roadmap outlines the strategic phases for developing the network, focusing 
   
 ---
 
-## Phase 3: Testnet Development and Ecosystem Growth
+## Phase 3: Testnet Enhancement and Ecosystem Growth
 
-## 🔬 Testnet Development  
+## 🔬 Testnet Enhancement  
 - Develop key API integrations and user interfaces for the network.  
 - Conduct closed testnet trials to validate functionality and gather feedback.  
 - Simulate an early test group to focus on securing the network and validating consensus.
@@ -87,9 +86,6 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 - Conduct comprehensive security audits, penetration tests, and stress tests.  
 - Fix vulnerabilities promptly and monitor for emerging threats.
 
-## 🚀 Testnet Launch  
-- Launch the testnet to demonstrate core infrastructure and gather feedback from early testers.
-
 ## 📢 Marketing  
 - Launch a marketing campaign to build awareness.  
 - Host webinars, AMAs, and open-source events to engage the community.  
@@ -97,17 +93,17 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ## Phase 4: Mainnet Deployment and Scaling
 
-## 🖥️ Mainnet Deployment
-- Launch the DIN mainnet with full functionality on Ethereum.
+## 🖥️ Mainnet Protocol Deployment
+- Launch the DIN mainnet with full functionality.
 
 ## ⚡ Performance Optimization
 - Continuously enhance scalability through layer 2 solutions.
 
-## 🔬 Advanced Features
-- Implement cross-chain interoperability and modular architecture for easy upgrades.
-
 ## 🌐 Network Growth
 - Focus on generating revenue through network fees to sustain ongoing development.
+
+## 🔬 Advanced Features
+- Implement cross-chain interoperability and modular architecture for easy upgrades.
 
 ## 👥 Community Engagement
 - Transition to DAO governance and establish grant programs for projects.
