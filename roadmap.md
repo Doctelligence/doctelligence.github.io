@@ -56,10 +56,6 @@ This roadmap outlines the strategic phases for developing the network, focusing 
 
 ## 🤝 Partnerships  
 - Build collaborations with open-source decentralized AI communities, blockchain ecosystems, federated learning (FL) organizations, and data networks.
-
-## 🪙 Token Generation Event (TGE)  
-- **Host the Token Generation Event (TGE)** to secure the network, establish governance, and support ecosystem growth.  
-- Ensure long-term sustainability through utility-driven token models.
   
 ---
 
