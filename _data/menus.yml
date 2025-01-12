@@ -9,7 +9,7 @@ main:
     url: "/prototype/"
     weight: 3
   - name: "GitHub"
-    url: "/github/"
+    url: "/github/" 
     weight: 4
   - name: "Team"
     url: "/team/"
